@@ -1,4 +1,38 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW01 Resting Youth added.
+CR15 Starfall Prophecy added.
+CG15 At a Crossroad added.
+UZ07 Argen, Puppet of Szaltr added.
+
+CW01 removed.
+CR15 Direct damage (6) removed.
+CG15 Dig for lands or creatures removed.
+UZ07 removed.
+
+CB06 Treacherous Trader
+rules_text: Sponsor [i](Whenever this creature becomes tapped, another target creature gains the following abilities until end of turn.)[/i]
+{T}: Each opponent loses 1 life and you gain 1 life, then if this creature's name is not Treacherous Trader, sacrifice it. => Sponsor [i](Whenever this creature becomes tapped, another target creature gains the following abilities until end of turn.)[/i]
+{2}, {T}, Sacrifice a creature: Put a +1/+1 counter on this creature. Draw a card.
+pt: 1/3 => 2/4
+
+UA01 Mirror Paladin
+
+CU03 Mistmantled Wiseard
+
+RB01 Plunder the Giant's Tomb
+
+Exquisite Corpse Rules
+
+Exquisite Corpse Guidelines
+
+Insect
+
+Beast
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

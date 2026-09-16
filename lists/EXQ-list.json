@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "264"
+        "position": "260"
     },
     {
         "card_name": "RR01",
@@ -1040,7 +1040,7 @@
         "position": "212"
     },
     {
-        "card_name": "CW01",
+        "card_name": "CW01 Resting Youth",
         "number": 11,
         "shape": "normal",
         "set": "EXQ",
@@ -1133,7 +1133,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "263"
+        "position": "259"
     },
     {
         "card_name": "CB03",
@@ -1624,7 +1624,7 @@
         "position": "43"
     },
     {
-        "card_name": "CR15 Direct damage (6)",
+        "card_name": "CR15 Starfall Prophecy",
         "number": 148,
         "shape": "normal",
         "set": "EXQ",
@@ -1632,7 +1632,7 @@
         "position": "58"
     },
     {
-        "card_name": "CG15 Dig for lands or creatures",
+        "card_name": "CG15 At a Crossroad",
         "number": 189,
         "shape": "normal",
         "set": "EXQ",
@@ -1709,7 +1709,7 @@
         "position": "220"
     },
     {
-        "card_name": "UZ07",
+        "card_name": "UZ07 Argen, Puppet of Szaltr",
         "number": 232,
         "shape": "normal",
         "set": "EXQ",
@@ -2174,7 +2174,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "260"
+        "position": "262"
     },
     {
         "card_name": "Exquisite Corpse Rules",
@@ -2182,7 +2182,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "259"
+        "position": "261"
     },
     {
         "card_name": "Beast",
@@ -2190,7 +2190,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "262"
+        "position": "264"
     },
     {
         "card_name": "Insect",
@@ -2198,7 +2198,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "261"
+        "position": "263"
     },
     {
         "card_name": "e"
