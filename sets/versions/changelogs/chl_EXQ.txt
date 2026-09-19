@@ -1,4 +1,36 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CB04 Distant Apparition added.
+CB12 Cradled by the Grave added.
+UW02 Shadow of Faith added.
+UB08 Sinister Strength added.
+RZ04 Skullmask Highwayman added.
+CG01 Glimmerfetch added.
+
+CB04 removed.
+CB12 Card draw w/ added cost removed.
+UW02 removed.
+UB08 removed.
+RZ04 removed.
+CG01 removed.
+
+CB10 Mind Dismemberment
+
+CB15 Lead Below
+
+CR15 Starfall Prophecy
+rules_text: When Starfall Prophecy enters, it deals 5 damage to any target.
+Whenever you attack, scry 1.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => When Starfall Prophecy enters, it deals 5 damage to target creature or battle.
+Whenever you attack, scry 1.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+UU01
+pt:  => 3/1
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CW01 Resting Youth added.

@@ -520,7 +520,7 @@
         "position": "116"
     },
     {
-        "card_name": "UW02",
+        "card_name": "UW02 Shadow of Faith",
         "number": 39,
         "shape": "normal",
         "set": "EXQ",
@@ -776,7 +776,7 @@
         "position": "91"
     },
     {
-        "card_name": "UB08",
+        "card_name": "UB08 Sinister Strength",
         "number": 127,
         "shape": "normal",
         "set": "EXQ",
@@ -1072,7 +1072,7 @@
         "position": "44"
     },
     {
-        "card_name": "CG01",
+        "card_name": "CG01 Glimmerfetch",
         "number": 175,
         "shape": "normal",
         "set": "EXQ",
@@ -1176,7 +1176,7 @@
         "position": "18"
     },
     {
-        "card_name": "CB04",
+        "card_name": "CB04 Distant Apparition",
         "number": 96,
         "shape": "normal",
         "set": "EXQ",
@@ -1496,7 +1496,7 @@
         "position": "26"
     },
     {
-        "card_name": "CB12 Card draw w/ added cost",
+        "card_name": "CB12 Cradled by the Grave",
         "number": 104,
         "shape": "normal",
         "set": "EXQ",
@@ -1669,7 +1669,7 @@
         "position": "181"
     },
     {
-        "card_name": "RZ04",
+        "card_name": "RZ04 Skullmask Highwayman",
         "number": 219,
         "shape": "normal",
         "set": "EXQ",

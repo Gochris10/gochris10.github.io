@@ -321,10 +321,10 @@
 			}
 		},
 		{
-			"name": "CB04",
+			"name": "CB04 Distant Apparition",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature",
+			"type": "Creature — Spirit",
 			"collector_number": "96",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/32.jpg"
@@ -401,10 +401,10 @@
 			}
 		},
 		{
-			"name": "CB12 Card draw w/ added cost",
+			"name": "CB12 Cradled by the Grave",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/40.jpg"
@@ -741,10 +741,10 @@
 			}
 		},
 		{
-			"name": "UW02",
+			"name": "UW02 Shadow of Faith",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel",
 			"collector_number": "39",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/74.jpg"
@@ -1021,10 +1021,10 @@
 			}
 		},
 		{
-			"name": "UB08",
+			"name": "UB08 Sinister Strength",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
 			"collector_number": "127",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/102.jpg"
@@ -1821,10 +1821,10 @@
 			}
 		},
 		{
-			"name": "RZ04",
+			"name": "RZ04 Skullmask Highwayman",
 			"rarity": "rare",
-			"mana_cost": "{B}{R}",
-			"type": "",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Rogue",
 			"collector_number": "219",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/182.jpg"
@@ -2541,10 +2541,10 @@
 			}
 		},
 		{
-			"name": "CG01",
+			"name": "CG01 Glimmerfetch",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature",
+			"type": "Creature — Faerie Druid",
 			"collector_number": "175",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/254.jpg"
@@ -2698,7 +2698,7 @@
 	1 MG02
 	2 RZ02
 	2 RZ03
-	2 RZ04
+	2 RZ04 Skullmask Highwayman
 	2 RZ05
 	2 RZ01
 	2 RZ09
@@ -2736,7 +2736,7 @@
 [uncommon(3)]
 	4 UW13
 	4 UW01
-	4 UW02
+	4 UW02 Shadow of Faith
 	4 UW03
 	4 UW04
 	4 UW05
@@ -2764,7 +2764,7 @@
 	4 UB05
 	4 UB06
 	4 UB07
-	4 UB08
+	4 UB08 Sinister Strength
 	4 UB09
 	4 UB10
 	4 UB11
@@ -2866,7 +2866,7 @@
 	8 CB01
 	8 CB02
 	8 CB03
-	8 CB04
+	8 CB04 Distant Apparition
 	8 CB05
 	8 CB06 Treacherous Trader
 	8 CB07
@@ -2874,7 +2874,7 @@
 	8 CB09
 	8 CB10 Mind Dismemberment
 	8 CB11 Combat trick
-	8 CB12 Card draw w/ added cost
+	8 CB12 Cradled by the Grave
 	8 CB13 Coercion
 	8 CB14 Unconditional removal
 	8 CB15 Lead Below
@@ -2912,7 +2912,7 @@
 	8 CA05 Orb of Pondering
 	8 CA03 Dreamscape Rambler
 	8 CA06 Mythomorphic Vale
-	8 CG01
+	8 CG01 Glimmerfetch
 	8 CU14 Top or Bottom
 	8 CA02
 	8 CU03 Mistmantled Wiseard
@@ -2948,7 +2948,7 @@
 	8 CB01
 	8 CB02
 	8 CB03
-	8 CB04
+	8 CB04 Distant Apparition
 	8 CB05
 	8 CB06 Treacherous Trader
 	8 CB07
@@ -2956,7 +2956,7 @@
 	8 CB09
 	8 CB10 Mind Dismemberment
 	8 CB11 Combat trick
-	8 CB12 Card draw w/ added cost
+	8 CB12 Cradled by the Grave
 	8 CB13 Coercion
 	8 CB14 Unconditional removal
 	8 CB15 Lead Below
@@ -2994,7 +2994,7 @@
 	8 CA05 Orb of Pondering
 	8 CA03 Dreamscape Rambler
 	8 CA06 Mythomorphic Vale
-	8 CG01
+	8 CG01 Glimmerfetch
 	8 CU14 Top or Bottom
 	8 CA02
 	8 CU03 Mistmantled Wiseard
@@ -3031,7 +3031,7 @@
 	12 CB01
 	12 CB02
 	12 CB03
-	12 CB04
+	12 CB04 Distant Apparition
 	12 CB05
 	12 CB06 Treacherous Trader
 	12 CB07
@@ -3039,7 +3039,7 @@
 	12 CB09
 	12 CB10 Mind Dismemberment
 	12 CB11 Combat trick
-	12 CB12 Card draw w/ added cost
+	12 CB12 Cradled by the Grave
 	12 CB13 Coercion
 	12 CB14 Unconditional removal
 	12 CB15 Lead Below
@@ -3073,7 +3073,7 @@
 	12 CG14 Mana acceleration
 	12 CG15 At a Crossroad
 	6 UW01
-	6 UW02
+	6 UW02 Shadow of Faith
 	6 UW03
 	6 UW04
 	6 UW05
@@ -3101,7 +3101,7 @@
 	6 UB05
 	6 UB06
 	6 UB07
-	6 UB08
+	6 UB08 Sinister Strength
 	6 UB09
 	6 UB10
 	6 UB11
@@ -3181,7 +3181,7 @@
 	6 UZ12
 	2 RZ02
 	2 RZ03
-	2 RZ04
+	2 RZ04 Skullmask Highwayman
 	2 RZ05
 	2 RZ01
 	2 RZ09
@@ -3253,7 +3253,7 @@
 	1 MX09
 	1 MX10
 	6 UR01 Cloud Merchant
-	12 CG01
+	12 CG01 Glimmerfetch
 	12 CU14 Top or Bottom
 	2 RG01 Seek the Twinbeasts
 	12 CA02
@@ -3293,7 +3293,7 @@
 	6 CB01
 	6 CB02
 	6 CB03
-	6 CB04
+	6 CB04 Distant Apparition
 	6 CB05
 	6 CB06 Treacherous Trader
 	6 CB07
@@ -3301,7 +3301,7 @@
 	6 CB09
 	6 CB10 Mind Dismemberment
 	6 CB11 Combat trick
-	6 CB12 Card draw w/ added cost
+	6 CB12 Cradled by the Grave
 	6 CB13 Coercion
 	6 CB14 Unconditional removal
 	6 CB15 Lead Below
@@ -3335,7 +3335,7 @@
 	6 CG14 Mana acceleration
 	6 CG15 At a Crossroad
 	15 UW01
-	15 UW02
+	15 UW02 Shadow of Faith
 	15 UW03
 	15 UW04
 	15 UW05
@@ -3363,7 +3363,7 @@
 	15 UB05
 	15 UB06
 	15 UB07
-	15 UB08
+	15 UB08 Sinister Strength
 	15 UB09
 	15 UB10
 	15 UB11
@@ -3443,7 +3443,7 @@
 	15 UZ12
 	7 RZ02
 	7 RZ03
-	7 RZ04
+	7 RZ04 Skullmask Highwayman
 	7 RZ05
 	7 RZ01
 	7 RZ09
@@ -3515,7 +3515,7 @@
 	4 MX09
 	4 MX10
 	15 UR01 Cloud Merchant
-	6 CG01
+	6 CG01 Glimmerfetch
 	6 CU14 Top or Bottom
 	7 RG01 Seek the Twinbeasts
 	6 CA02

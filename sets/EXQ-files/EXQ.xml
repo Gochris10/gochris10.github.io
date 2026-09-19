@@ -5,7 +5,7 @@
 			<name>EXQ</name>
 			<longname>Exquisite Corpse</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-15</releasedate>
+			<releasedate>2026-09-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -529,18 +529,21 @@ Draw a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB04</name>
-			<text></text>
+			<name>CB04 Distant Apparition</name>
+			<text>Flash
+Flying
+When Distant Apparition enters, each player discards a card.</text>
 			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/32.jpg" num="96">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -660,20 +663,21 @@ Target player mills two cards.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CB12 Card draw w/ added cost</name>
-			<text></text>
+			<name>CB12 Cradled by the Grave</name>
+			<text>As an additional cost to cast this spell, pay 4 life or exile four cards from your graveyard.
+Draw three cards.</text>
 			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/40.jpg" num="104">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CB13 Coercion</name>
@@ -953,7 +957,7 @@ Punish Folly deals 3 damage to target creature.</text>
 		</card>
 		<card>
 			<name>CR15 Starfall Prophecy</name>
-			<text>When Starfall Prophecy enters, it deals 5 damage to any target.
+			<text>When Starfall Prophecy enters, it deals 5 damage to target creature or battle.
 Whenever you attack, scry 1.
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/58.jpg" num="148">EXQ</set>
@@ -1214,18 +1218,20 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UW02</name>
-			<text></text>
+			<name>UW02 Shadow of Faith</name>
+			<text>Flying, vigilance
+You may have Shadow of Faith enter as a copy of any creature card in your graveyard, except it&apos;s a 4/4 Angel creature with flying and vigilance.</text>
 			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/74.jpg" num="39">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Angel</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1390,6 +1396,7 @@ Equip {2}</text>
 				<cmc>0</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1668,16 +1675,18 @@ When you draw your third card in a turn, return this card from your graveyard to
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UB08</name>
-			<text></text>
+			<name>UB08 Sinister Strength</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2.
+{B}{B}, Sacrifice a nontoken creature you control: Enchanted creature gains indestructible until end of turn.</text>
 			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/102.jpg" num="127">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -2956,20 +2965,22 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RZ04</name>
-			<text></text>
+			<name>RZ04 Skullmask Highwayman</name>
+			<text>Double strike, menace, trample
+Ward—Discard a card.</text>
 			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/182.jpg" num="219">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>BR</manacost>
-				<cmc>2</cmc>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
+				<pt>1/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>RZ05</name>
@@ -4070,18 +4081,19 @@ Flying
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG01</name>
-			<text></text>
+			<name>CG01 Glimmerfetch</name>
+			<text>{T}, Tap another untapped artifact or creature you control: Add one mana of any color.</text>
 			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/254.jpg" num="175">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Faerie Druid</type>
 				<maintype>Creature</maintype>
 				<manacost>G</manacost>
 				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
