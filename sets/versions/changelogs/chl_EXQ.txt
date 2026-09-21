@@ -1,4 +1,331 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CU12 Pearl Harvest added.
+CB01 Pot-Stirring Boggun added.
+CB08 Rider of Kalinfal added.
+CB10 Dragged into Darkness added.
+CR04 Accursed Princess added.
+UU03 Kalinfal Astronomer added.
+UR08 Face Merchant added.
+RR06 Ferocious Dragon added.
+CA04 Forsworn's Axe added.
+RW01 Form a Cult of Fursonality added.
+CAT CLERIC added.
+WISDOM added.
+
+CU12 Draw 2/3 removed.
+CB01 removed.
+CB08 removed.
+CB10 Mind Dismemberment removed.
+CR04 removed.
+UU03 removed.
+UR08 removed.
+RW01 removed.
+RR06 removed.
+CA04 Removal removed.
+
+CW01 Resting Youth
+
+CW02 Loyal Pariah
+
+CB04 Distant Apparition
+rules_text: Flash
+Flying
+When Distant Apparition enters, each player discards a card. => Flash
+Flying
+When this creature enters, each player discards a card.
+
+CB06 Treacherous Trader
+
+CB15 Lead Below
+type: Sorcery => Instant
+rules_text: This spell costs {1} less to cast if it targets a tapped creature.
+Destroy target creature.
+Draw a card. => This spell costs {1} less to cast if it targets a tapped creature.
+Put target creature on the bottom of its owner's library.
+
+CR01 Bloodmist Lurker
+
+CR15 Starfall Prophecy
+rules_text: When Starfall Prophecy enters, it deals 5 damage to target creature or battle.
+Whenever you attack, scry 1.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => When Starfall Prophecy enters, it deals 5 damage to up to one target creature, planeswalker, or battle.
+Whenever you attack, scry 1.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CG07 Returned Knight
+
+CG15 At a Crossroad
+
+UW10 Ravenous Featherfang
+
+UB08 Sinister Strength
+
+RW02
+
+RW03
+
+RW04
+
+RW05
+
+RW06
+
+RW07
+
+RU01 Riders of the Tide
+
+RU02
+
+RU03
+
+RU04
+
+RU05
+
+RU06
+
+RU07
+
+RB02
+
+RB03
+
+RB04
+
+RB05
+
+RB06
+
+RB07
+
+RR01
+
+RR02
+
+RR03
+
+RR04
+
+RR05
+
+RR07
+
+RG02
+
+RG03
+
+RG04
+
+RG05
+
+RG06
+
+RG07
+
+MW01
+
+MW02
+
+MU01
+
+MU02
+
+MB01 Eclipsebringer
+
+MB02
+
+MR01
+
+MR02
+
+MG01
+
+MG02
+
+UZ03
+
+UZ06
+
+UZ08
+
+UZ10
+
+UZ01
+
+UZ18
+
+UZ13
+
+UZ19 Venusian Knight
+
+UZ16
+
+UZ12
+
+RZ02
+
+RZ03
+
+RZ04 Skullmask Highwayman
+
+RZ05
+
+RZ01
+
+RZ09
+
+RZ07
+
+RZ10
+
+RZ08
+
+RZ06 Sylvia of a Thousand Wings
+
+CA01 Variance buster
+
+UA01 Mirror Paladin
+
+CA05 Orb of Pondering
+
+CA03 Dreamscape Rambler
+
+UA02
+
+UA03
+
+UA04
+
+UA05
+
+CA06 Mythomorphic Vale
+
+UW12
+
+UW14
+
+UA06
+
+UA07
+
+UA08
+
+UA09
+
+UA10
+
+UR12
+
+UR13
+
+UR14
+
+UG12
+
+UG13
+
+UG14
+
+UU12
+
+UU13
+
+UU14
+
+UB12
+
+UB13
+
+UB14
+
+UZ04
+
+UZ05
+
+UZ09
+
+UZ02
+
+UZ17
+
+UZ14
+
+UZ20
+
+UZ15
+
+UZ11
+
+RW08
+
+RU08
+
+RB08
+
+RR08
+
+RG08
+
+RR09
+
+RR10
+
+RG09
+
+RG10
+
+RW09
+
+RW10
+
+RU09
+
+RU10
+
+RB09
+
+RB10
+
+MX01
+
+MX02
+
+MX03
+
+MX04
+
+MX05
+
+MX06
+
+MX07
+
+MX08
+
+MX09
+
+MX10
+
+UR01 Cloud Merchant
+
+CG01 Glimmerfetch
+
+CU14 Top or Bottom
+
+RG01 Seek the Twinbeasts
+
+CA02
+
+UZ07 Argen, Puppet of Szaltr
+
+CU03 Mistmantled Wiseard
+
+RB01 Plunder the Giant's Tomb
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CB04 Distant Apparition added.
