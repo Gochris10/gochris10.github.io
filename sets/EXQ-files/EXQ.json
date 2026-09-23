@@ -470,21 +470,21 @@
             "notes": ""
         },
         {
-            "card_name": "CU08",
+            "card_name": "CU08 Serpent of Sunken Stories",
             "color": "U",
             "rarity": "common",
-            "type": "Creature",
+            "type": "Enchantment Creature \u2014 Serpent Quest",
             "number": 59,
             "color_identity": "U",
             "cost": "{5}{U}",
-            "rules_text": "",
+            "rules_text": "The first time you complete each objective, put a +1/+1 counter on this creature and scry 1.\nSacrifice a permanent.\nDraw your third card in a turn.\nCast a spell with mana value 4 or greater.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "3/5",
             "special_text": "",
             "shape": "normal",
             "set": "EXQ",
             "loyalty": "",
-            "artist": "",
+            "artist": "Chirag Tripathy",
             "alias": "",
             "position": "22",
             "rotated": false,
@@ -824,7 +824,7 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "Conditional Removal\nFeel free to change the name, couldn't think of anything better. (obsolete)\n(Made by Valar Dohaeris, renamed by Clown)"
+            "notes": "(Made by Valar Dohaeris, renamed by Clown)\nConditional Removal\nFeel free to change the name, couldn't think of anything better. (obsolete)"
         },
         {
             "card_name": "CB11 Combat trick",
@@ -939,7 +939,7 @@
             "number": 134,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Whenever Bloodmist Lurker becomes the target of a spell or ability for the first time each turn, it deals 1 damage to each opponent.",
+            "rules_text": "[i][i]Spotlight[/i][/i] \u2014 Whenever Bloodmist Lurker becomes the target of a spell or ability for the first time each turn, it deals 1 damage to each opponent.",
             "flavor_text": "[i]A mix of morbid curiosity and awe at the crimson light always gets the best of villagers, despite the blatant danger.[/i]",
             "pt": "1/2",
             "special_text": "",
@@ -1002,7 +1002,7 @@
             "number": 137,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Whenever this creature becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it. Until end of turn, it gains flying and becomes a Dragon in addition to its other types.",
+            "rules_text": "[i]Spotlight[/i] \u2014Whenever this creature becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it. Until end of turn, it gains flying and becomes a Dragon in addition to its other types.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1016,21 +1016,21 @@
             "notes": ""
         },
         {
-            "card_name": "CR05",
+            "card_name": "CR05 Fox of Fiery Fables",
             "color": "R",
             "rarity": "common",
-            "type": "Creature",
+            "type": "Enchantment Creature \u2014 Fox Quest",
             "number": 138,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "",
+            "rules_text": "The first time you complete each objective, put a +1/+1 counter on this creature and it deals 1 damage to each opponent.\nA token enters under your control.\nAttack with three or more creatures.\nCast a spell with mana value 4 or greater.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "EXQ",
             "loyalty": "",
-            "artist": "",
+            "artist": "Kotobuki 01",
             "alias": "",
             "position": "48",
             "rotated": false,
@@ -1247,21 +1247,21 @@
             "notes": "Direct damage (5-6)"
         },
         {
-            "card_name": "CG02",
+            "card_name": "CG02 Trog",
             "color": "G",
             "rarity": "common",
-            "type": "Creature",
+            "type": "Creature \u2014 Elemental",
             "number": 176,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "",
+            "rules_text": "Reach\nWhen Trog enters, put a +1/+1 counter on target creature.\nWhen Trog dies, you may move its counters on target creature you control.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "0/2",
             "special_text": "",
             "shape": "normal",
             "set": "EXQ",
             "loyalty": "",
-            "artist": "",
+            "artist": "Sandara",
             "alias": "",
             "position": "59",
             "rotated": false,
@@ -1737,7 +1737,7 @@
             "number": 47,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Flying\nWhenever Ravenous Featherfang or another creature you control with flying becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it.",
+            "rules_text": "Flying\n[i]Share the spotlight[/i] \u2014 Whenever Ravenous Featherfang or another creature you control with flying becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it.",
             "flavor_text": "[i]It hunts anything and everything for its many hungry pups.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1821,8 +1821,8 @@
             "number": 81,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Whenever two or more creatures you control deal combat damage to an opponent, draw a card.",
-            "flavor_text": "[i]\u201cThey are not prepared for what is to come, but we have been for ages.\u201d[/i]",
+            "rules_text": "Vigilance\nWhenever a creature deals combat damage to an opponent, surveil 1. If this is the second time this ability has triggered this turn, draw a card.",
+            "flavor_text": "[i]\u201cThey are not prepared for what is to come, but even our ancestors' ancestors' could see it written in the stars.\u201d[/i]",
             "pt": "1/4",
             "special_text": "",
             "shape": "normal",
@@ -1832,24 +1832,24 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": ""
+            "notes": "22-09-2026 \u2014 Clown: Having played a LOT with Coastal Piracy type cards, I can confirm that the old version of this card was way too weak. There are many \"once per turn, if hoop, draw\" cards at uncommon these days; it's only unlimited draw thast tends to go to rare."
         },
         {
-            "card_name": "UU04",
+            "card_name": "UU04 Netcaster Troll",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature",
+            "type": "Creature \u2014 Troll",
             "number": 82,
             "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
+            "cost": "{4}{U}",
+            "rules_text": "When this creature enters, choose one \u2014\n\u2022 Return another target creature to its owner's hand.\n\u2022 Return target artifact, instant, or sorcery card from your graveyard to your hand.",
+            "flavor_text": "[i]\u201cAll kinds of morsels wash up in my nets.\u201d[/i]",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "EXQ",
             "loyalty": "",
-            "artist": "",
+            "artist": "Pep Montserrat",
             "alias": "",
             "position": "87",
             "rotated": false,
@@ -2171,27 +2171,6 @@
             "notes": "(Made by Valar Dohaeris)"
         },
         {
-            "card_name": "UB09",
-            "color": "B",
-            "rarity": "uncommon",
-            "type": "",
-            "number": 128,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EXQ",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "103",
-            "rotated": false,
-            "notes": ""
-        },
-        {
             "card_name": "UB10",
             "color": "B",
             "rarity": "uncommon",
@@ -2208,7 +2187,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "rotated": false,
             "notes": ""
         },
@@ -2229,7 +2208,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "rotated": false,
             "notes": ""
         },
@@ -2250,30 +2229,30 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "UR03",
+            "card_name": "UR03 Arrogant Thespian",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature",
+            "type": "Creature \u2014 Clown Performer",
             "number": 163,
             "color_identity": "R",
-            "cost": "",
-            "rules_text": "",
+            "cost": "{3}{R}",
+            "rules_text": "Trample\n[i][i]Spotlight[/i][/i] \u2014 Whenever Arrogant Thespian becomes the target of a spell or ability for the first time each turn, exile the top card of your library. You may play it until the end of your next turn.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "5/1",
             "special_text": "",
             "shape": "normal",
             "set": "EXQ",
             "loyalty": "",
-            "artist": "",
+            "artist": "kyle herring william",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "rotated": false,
-            "notes": ""
+            "notes": "22-09-2026 \u2014 Buff target."
         },
         {
             "card_name": "UR04",
@@ -2292,7 +2271,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "rotated": false,
             "notes": ""
         },
@@ -2313,7 +2292,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "rotated": false,
             "notes": ""
         },
@@ -2334,7 +2313,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "rotated": false,
             "notes": ""
         },
@@ -2355,7 +2334,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "111",
+            "position": "110",
             "rotated": false,
             "notes": ""
         },
@@ -2376,7 +2355,7 @@
             "loyalty": "",
             "artist": "Hari Ren",
             "alias": "",
-            "position": "112",
+            "position": "111",
             "rotated": false,
             "notes": "Designed by: Clown\n2026-09-20 \u2014 https://youtu.be/-S4d4ru1WWU"
         },
@@ -2397,7 +2376,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "113",
+            "position": "112",
             "rotated": false,
             "notes": ""
         },
@@ -2418,7 +2397,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "114",
+            "position": "113",
             "rotated": false,
             "notes": ""
         },
@@ -2439,7 +2418,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "rotated": false,
             "notes": ""
         },
@@ -2460,7 +2439,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "116",
+            "position": "115",
             "rotated": false,
             "notes": ""
         },
@@ -2481,7 +2460,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "rotated": false,
             "notes": ""
         },
@@ -2502,7 +2481,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "118",
+            "position": "117",
             "rotated": false,
             "notes": ""
         },
@@ -2523,7 +2502,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "119",
+            "position": "118",
             "rotated": false,
             "notes": ""
         },
@@ -2544,7 +2523,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "rotated": false,
             "notes": ""
         },
@@ -2565,7 +2544,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "rotated": false,
             "notes": ""
         },
@@ -2586,7 +2565,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "122",
+            "position": "121",
             "rotated": false,
             "notes": ""
         },
@@ -2607,7 +2586,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "123",
+            "position": "122",
             "rotated": false,
             "notes": ""
         },
@@ -2628,7 +2607,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "rotated": false,
             "notes": ""
         },
@@ -2649,7 +2628,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "rotated": false,
             "notes": ""
         },
@@ -2670,7 +2649,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "rotated": false,
             "notes": ""
         },
@@ -2691,7 +2670,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "rotated": false,
             "notes": ""
         },
@@ -2712,7 +2691,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "rotated": false,
             "notes": ""
         },
@@ -2733,7 +2712,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "rotated": false,
             "notes": ""
         },
@@ -2754,7 +2733,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "rotated": false,
             "notes": ""
         },
@@ -2775,7 +2754,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "rotated": false,
             "notes": ""
         },
@@ -2796,7 +2775,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "rotated": false,
             "notes": ""
         },
@@ -2817,7 +2796,7 @@
             "loyalty": "",
             "artist": "Lin Sun",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "rotated": false,
             "notes": "Valar:\nOriginal name: Knights of the Tide\nBy the way, does the 'return tapped and attacking' part belong in blue? Like it can give haste"
         },
@@ -2838,7 +2817,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "rotated": false,
             "notes": ""
         },
@@ -2859,7 +2838,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "rotated": false,
             "notes": ""
         },
@@ -2880,7 +2859,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "rotated": false,
             "notes": ""
         },
@@ -2901,7 +2880,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "rotated": false,
             "notes": ""
         },
@@ -2922,7 +2901,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "rotated": false,
             "notes": ""
         },
@@ -2943,7 +2922,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "rotated": false,
             "notes": ""
         },
@@ -2964,7 +2943,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "rotated": false,
             "notes": ""
         },
@@ -2985,7 +2964,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "rotated": false,
             "notes": ""
         },
@@ -3006,7 +2985,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "rotated": false,
             "notes": ""
         },
@@ -3027,7 +3006,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "rotated": false,
             "notes": ""
         },
@@ -3048,7 +3027,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "rotated": false,
             "notes": ""
         },
@@ -3069,7 +3048,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "rotated": false,
             "notes": ""
         },
@@ -3090,7 +3069,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "rotated": false,
             "notes": ""
         },
@@ -3111,7 +3090,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "rotated": false,
             "notes": ""
         },
@@ -3132,7 +3111,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "rotated": false,
             "notes": ""
         },
@@ -3153,7 +3132,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "rotated": false,
             "notes": ""
         },
@@ -3174,7 +3153,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "rotated": false,
             "notes": ""
         },
@@ -3195,7 +3174,7 @@
             "loyalty": "",
             "artist": "Vadim Marchenkov",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "rotated": false,
             "notes": ""
         },
@@ -3216,7 +3195,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "rotated": false,
             "notes": ""
         },
@@ -3237,7 +3216,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "rotated": false,
             "notes": ""
         },
@@ -3258,7 +3237,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "rotated": false,
             "notes": ""
         },
@@ -3279,7 +3258,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "rotated": false,
             "notes": ""
         },
@@ -3300,7 +3279,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "156",
+            "position": "155",
             "rotated": false,
             "notes": ""
         },
@@ -3321,7 +3300,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "157",
+            "position": "156",
             "rotated": false,
             "notes": ""
         },
@@ -3342,7 +3321,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "158",
+            "position": "157",
             "rotated": false,
             "notes": ""
         },
@@ -3363,7 +3342,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "rotated": false,
             "notes": ""
         },
@@ -3384,7 +3363,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "160",
+            "position": "159",
             "rotated": false,
             "notes": ""
         },
@@ -3405,7 +3384,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "161",
+            "position": "160",
             "rotated": false,
             "notes": ""
         },
@@ -3426,7 +3405,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "rotated": false,
             "notes": ""
         },
@@ -3447,7 +3426,7 @@
             "loyalty": "",
             "artist": "Jorge Benedito",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "rotated": false,
             "notes": "Seems very, very effficient. I would either pay 3 life or 3 mana or maybe lose 2 life when it dies."
         },
@@ -3468,7 +3447,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "rotated": false,
             "notes": ""
         },
@@ -3489,7 +3468,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "rotated": false,
             "notes": ""
         },
@@ -3510,7 +3489,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "166",
+            "position": "165",
             "rotated": false,
             "notes": ""
         },
@@ -3531,7 +3510,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "167",
+            "position": "166",
             "rotated": false,
             "notes": ""
         },
@@ -3552,7 +3531,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "168",
+            "position": "167",
             "rotated": false,
             "notes": ""
         },
@@ -3573,7 +3552,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "rotated": false,
             "notes": ""
         },
@@ -3594,7 +3573,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "rotated": false,
             "notes": ""
         },
@@ -3615,7 +3594,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "rotated": false,
             "notes": ""
         },
@@ -3636,7 +3615,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "172",
+            "position": "171",
             "rotated": false,
             "notes": ""
         },
@@ -3657,7 +3636,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "173",
+            "position": "172",
             "rotated": false,
             "notes": ""
         },
@@ -3678,7 +3657,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "rotated": false,
             "notes": ""
         },
@@ -3699,7 +3678,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "rotated": false,
             "notes": ""
         },
@@ -3720,7 +3699,7 @@
             "loyalty": "",
             "artist": "Yui_mera",
             "alias": "",
-            "position": "176",
+            "position": "175",
             "rotated": false,
             "notes": "Changed from Human to Faerie"
         },
@@ -3741,7 +3720,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "rotated": false,
             "notes": ""
         },
@@ -3762,30 +3741,30 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "RZ02",
+            "card_name": "RZ02 Captured Princess",
             "color": "WU",
             "rarity": "rare",
-            "type": "",
+            "type": "Creature \u2014 Human Noble",
             "number": 217,
             "color_identity": "WU",
-            "cost": "{W}{U}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
+            "cost": "{3}{W}{U}",
+            "rules_text": "When Captured Princess enters, you draw two cards and gain 2 life. If you cast Captured Princess, exile it until a creature an opponent controls leaves the battlefield.\nOther creatures you control get +1/+1.",
+            "flavor_text": "[i]Don't worry. She's used to it.[/i]",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "EXQ",
             "loyalty": "",
-            "artist": "",
+            "artist": "ritako4am",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "rotated": false,
-            "notes": ""
+            "notes": "22-09-2026 \u2014 Based on a mechanic I made for a Mario set once. Flicker archetype, question mark"
         },
         {
             "card_name": "RZ03",
@@ -3804,7 +3783,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "rotated": false,
             "notes": ""
         },
@@ -3825,9 +3804,9 @@
             "loyalty": "",
             "artist": "damien mammoliti",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "rotated": false,
-            "notes": ""
+            "notes": "19-9-2026 \u2014 Signal for some sort of Rakdos buff subtheme, since usually boros takes all the glory there."
         },
         {
             "card_name": "RZ05",
@@ -3846,28 +3825,28 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "RZ01",
+            "card_name": "RZ01 Fabled Knight",
             "color": "WG",
             "rarity": "rare",
-            "type": "",
+            "type": "Creature \u2014 Human Knight",
             "number": 216,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "",
+            "rules_text": "Enchantment spells you cast cost {X} less to cast, where X is Fabled Knight's power.\nWhenever you complete a Quest, create a 2/2 white Knight token with vigilance, then put a +1/+1 counter on each creature you control.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "1/3",
             "special_text": "",
             "shape": "normal",
             "set": "EXQ",
             "loyalty": "",
-            "artist": "",
+            "artist": "Sylvia Pasqualetto",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "rotated": false,
             "notes": ""
         },
@@ -3888,7 +3867,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "rotated": false,
             "notes": ""
         },
@@ -3909,7 +3888,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "rotated": false,
             "notes": ""
         },
@@ -3930,7 +3909,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "rotated": false,
             "notes": ""
         },
@@ -3951,7 +3930,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "rotated": false,
             "notes": ""
         },
@@ -3972,9 +3951,9 @@
             "loyalty": "",
             "artist": "sandara tang",
             "alias": "",
-            "position": "188",
+            "position": "187",
             "rotated": false,
-            "notes": "Gokun: This should be fine as long as there isn't too much token spam in the set. I worry that 2 Sylvias in quick succession is backbreaking: maybe this should be nontoken creatures only?"
+            "notes": "(Made by Valar Dohaeris)\nGokun: This should be fine as long as there isn't too much token spam in the set. I worry that 2 Sylvias in quick succession is backbreaking: maybe this should be nontoken creatures only?"
         },
         {
             "card_name": "CA01 Variance buster",
@@ -3993,7 +3972,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "rotated": false,
             "notes": ""
         },
@@ -4014,7 +3993,7 @@
             "loyalty": "",
             "artist": "FromSoftware",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "rotated": false,
             "notes": "(Made by Valar Dohaeris, reworked by TheFirstGokun)\nGokun: This guy's from DS2, not a Bethesda game\nGokun: This is way too cool for common! :D 3/1 \u2014> 2/3, upgrading to uncommon and dropping the \"you control\" text. Seriously, this guy rules!\nthanks, also shame on me I knew about Fromsoft (Valar)"
         },
@@ -4035,7 +4014,7 @@
             "loyalty": "",
             "artist": "Damian Audino",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "rotated": false,
             "notes": "Removal\n(Made by Valar Dohaeris)"
         },
@@ -4056,7 +4035,7 @@
             "loyalty": "",
             "artist": "Carol Eade",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "rotated": false,
             "notes": "Manalith\n(Made by Valar Dohaeris)"
         },
@@ -4077,7 +4056,7 @@
             "loyalty": "",
             "artist": "TaKe-bamboo",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "rotated": false,
             "notes": "some kind of ethereal dream plane wizards visit for omens or mana\n\nValar: this is quite strong very strong"
         },
@@ -4098,7 +4077,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "rotated": false,
             "notes": ""
         },
@@ -4119,7 +4098,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "rotated": false,
             "notes": ""
         },
@@ -4140,7 +4119,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "rotated": false,
             "notes": ""
         },
@@ -4161,7 +4140,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "197",
+            "position": "196",
             "rotated": false,
             "notes": ""
         },
@@ -4182,7 +4161,7 @@
             "loyalty": "",
             "artist": "Mark Laver",
             "alias": "",
-            "position": "198",
+            "position": "197",
             "rotated": false,
             "notes": ""
         },
@@ -4203,7 +4182,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "rotated": false,
             "notes": ""
         },
@@ -4224,7 +4203,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "200",
+            "position": "199",
             "rotated": false,
             "notes": ""
         },
@@ -4245,7 +4224,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "201",
+            "position": "200",
             "rotated": false,
             "notes": ""
         },
@@ -4266,28 +4245,28 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "202",
+            "position": "201",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "UA08",
+            "card_name": "UA08 Crumbling Academy",
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
             "number": 259,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
+            "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color. You can't spend this mana to cast creature spells.",
+            "flavor_text": "[i]\u201cAnd that, class, is why we now have rules on the use of Abjuration indoors.\u201d\n\u2014 Lady Wick, Head Witch[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "EXQ",
             "loyalty": "",
-            "artist": "",
+            "artist": "Catatau",
             "alias": "",
-            "position": "203",
+            "position": "202",
             "rotated": false,
             "notes": ""
         },
@@ -4308,7 +4287,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "204",
+            "position": "203",
             "rotated": false,
             "notes": ""
         },
@@ -4329,7 +4308,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "205",
+            "position": "204",
             "rotated": false,
             "notes": ""
         },
@@ -4350,7 +4329,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "206",
+            "position": "205",
             "rotated": false,
             "notes": ""
         },
@@ -4371,7 +4350,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "207",
+            "position": "206",
             "rotated": false,
             "notes": ""
         },
@@ -4392,7 +4371,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "208",
+            "position": "207",
             "rotated": false,
             "notes": ""
         },
@@ -4413,7 +4392,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "209",
+            "position": "208",
             "rotated": false,
             "notes": ""
         },
@@ -4434,7 +4413,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "210",
+            "position": "209",
             "rotated": false,
             "notes": ""
         },
@@ -4455,7 +4434,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "rotated": false,
             "notes": ""
         },
@@ -4476,7 +4455,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "rotated": false,
             "notes": ""
         },
@@ -4497,7 +4476,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "rotated": false,
             "notes": ""
         },
@@ -4518,7 +4497,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "rotated": false,
             "notes": ""
         },
@@ -4539,7 +4518,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "rotated": false,
             "notes": ""
         },
@@ -4560,7 +4539,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "rotated": false,
             "notes": ""
         },
@@ -4581,7 +4560,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "rotated": false,
             "notes": ""
         },
@@ -4602,7 +4581,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "rotated": false,
             "notes": ""
         },
@@ -4623,7 +4602,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "rotated": false,
             "notes": ""
         },
@@ -4644,7 +4623,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "rotated": false,
             "notes": ""
         },
@@ -4665,7 +4644,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "rotated": false,
             "notes": ""
         },
@@ -4686,7 +4665,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "rotated": false,
             "notes": ""
         },
@@ -4707,7 +4686,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "rotated": false,
             "notes": ""
         },
@@ -4728,7 +4707,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "rotated": false,
             "notes": ""
         },
@@ -4749,7 +4728,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "rotated": false,
             "notes": ""
         },
@@ -4770,7 +4749,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "rotated": false,
             "notes": ""
         },
@@ -4791,7 +4770,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "rotated": false,
             "notes": ""
         },
@@ -4812,7 +4791,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "rotated": false,
             "notes": ""
         },
@@ -4833,7 +4812,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "rotated": false,
             "notes": ""
         },
@@ -4854,7 +4833,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "rotated": false,
             "notes": ""
         },
@@ -4875,7 +4854,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "rotated": false,
             "notes": ""
         },
@@ -4896,7 +4875,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "rotated": false,
             "notes": ""
         },
@@ -4917,7 +4896,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "rotated": false,
             "notes": ""
         },
@@ -4938,7 +4917,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "rotated": false,
             "notes": ""
         },
@@ -4959,7 +4938,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "rotated": false,
             "notes": ""
         },
@@ -4980,7 +4959,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "rotated": false,
             "notes": ""
         },
@@ -5001,7 +4980,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "rotated": false,
             "notes": ""
         },
@@ -5022,7 +5001,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "rotated": false,
             "notes": ""
         },
@@ -5043,7 +5022,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "rotated": false,
             "notes": ""
         },
@@ -5064,7 +5043,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "rotated": false,
             "notes": ""
         },
@@ -5085,7 +5064,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "rotated": false,
             "notes": ""
         },
@@ -5106,7 +5085,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "rotated": false,
             "notes": ""
         },
@@ -5127,7 +5106,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "rotated": false,
             "notes": ""
         },
@@ -5148,7 +5127,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "rotated": false,
             "notes": ""
         },
@@ -5169,7 +5148,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "rotated": false,
             "notes": ""
         },
@@ -5190,7 +5169,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "rotated": false,
             "notes": ""
         },
@@ -5211,7 +5190,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "rotated": false,
             "notes": ""
         },
@@ -5232,7 +5211,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "rotated": false,
             "notes": ""
         },
@@ -5253,7 +5232,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "rotated": false,
             "notes": ""
         },
@@ -5274,7 +5253,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "rotated": false,
             "notes": ""
         },
@@ -5295,7 +5274,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "rotated": false,
             "notes": ""
         },
@@ -5316,7 +5295,7 @@
             "loyalty": "",
             "artist": "Gun Gunawan",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "rotated": false,
             "notes": "Gokun: could be RW or UR \n Red giving repeated flying worries me a tiny bit but since the whole set seems pretty powerful that might not be an issue?"
         },
@@ -5337,7 +5316,7 @@
             "loyalty": "",
             "artist": "Justine Thibault",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "rotated": false,
             "notes": ""
         },
@@ -5358,7 +5337,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "rotated": false,
             "notes": ""
         },
@@ -5379,7 +5358,7 @@
             "loyalty": "",
             "artist": "Tijana Lukovic",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "rotated": false,
             "notes": "The fact that it can make you draw up to three cards in a turn and then on top of that get you 6 power on the board might be a bit concerning"
         },
@@ -5400,7 +5379,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "rotated": false,
             "notes": ""
         },
@@ -5421,7 +5400,7 @@
             "loyalty": "",
             "artist": "Ilya Popov",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "rotated": false,
             "notes": "A bit basic of a ft, if anyone can do better I can take it \n(Made by Valar Dohaeris)"
         },
@@ -5442,7 +5421,7 @@
             "loyalty": "",
             "artist": "xiaoquandianer",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "rotated": false,
             "notes": ""
         },
@@ -5463,7 +5442,7 @@
             "loyalty": "",
             "artist": "Marby Kwong",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "rotated": false,
             "notes": ""
         },
@@ -5475,7 +5454,7 @@
             "number": 28,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "The first time you complete each objective, create two 1/1 white Cat Cleric creature tokens with lifelink. If all three are complete, sacrifice this enchantment and put two +1/+1 counters on each creature you control.\nAttack with three or more creatures\nAttack with exactly one creature\nCast two creature spells in a single turn",
+            "rules_text": "The first time you complete each objective, create two 1/1 white Cat Cleric creature tokens with lifelink. If all three are complete, sacrifice this enchantment. When you do, put two +1/+1 counters on each creature you control.\nAttack with three or more creatures\nAttack with exactly one creature\nCast two creature spells in a single turn",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5484,9 +5463,51 @@
             "loyalty": "",
             "artist": "veronica o neill",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "rotated": false,
             "notes": "!tokens Cat Cleric (EXQ)<2>\nDesigned by: Clown\n2026-09-20 \u2014 Based on Plunder the Giant's Tomb. I wasn't the first person to start this cycle, but I hope it will become complete, one for each color."
+        },
+        {
+            "card_name": "UB09",
+            "color": "B",
+            "rarity": "common",
+            "type": "",
+            "number": 128,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EXQ",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "260",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Knight",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Knight",
+            "number": 4,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "Vigilance",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "EXQ",
+            "loyalty": "",
+            "artist": "Russell Dongjun Lu",
+            "alias": "",
+            "position": "261",
+            "rotated": false,
+            "notes": ""
         },
         {
             "card_name": "Exquisite Corpse Rules",
@@ -5505,7 +5526,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "261",
+            "position": "262",
             "rotated": false,
             "notes": "set founder: theFirstGokun\nGokun: Aw, ty :)"
         },
@@ -5526,7 +5547,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "262",
+            "position": "263",
             "rotated": false,
             "notes": ""
         },
@@ -5535,7 +5556,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Insect",
-            "number": 6,
+            "number": 7,
             "color_identity": "G",
             "cost": "",
             "rules_text": "Flying",
@@ -5547,7 +5568,7 @@
             "loyalty": "",
             "artist": "xiaoquandianer",
             "alias": "",
-            "position": "263",
+            "position": "264",
             "rotated": false,
             "notes": ""
         },
@@ -5556,7 +5577,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Beast",
-            "number": 5,
+            "number": 6,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -5568,12 +5589,12 @@
             "loyalty": "",
             "artist": "Yitan RAN",
             "alias": "",
-            "position": "264",
+            "position": "265",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "CAT CLERIC",
+            "card_name": "Cat Cleric",
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Cat Cleric",
@@ -5589,16 +5610,16 @@
             "loyalty": "",
             "artist": "veronica o neill",
             "alias": "",
-            "position": "265",
+            "position": "266",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "WISDOM",
+            "card_name": "Wisdom",
             "color": "U",
             "rarity": "common",
             "type": "Token Enchantment \u2014 Wisdom",
-            "number": 4,
+            "number": 5,
             "color_identity": "U",
             "cost": "",
             "rules_text": "{2}, Sacrifice this token: Draw two cards, then discard two cards.",
@@ -5610,10 +5631,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "266",
+            "position": "267",
             "rotated": false,
             "notes": ""
         }
     ],
-    "version": 4
+    "version": 5
 }

@@ -1,4 +1,371 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+CU08 Serpent of Sunken Stories added.
+CR05 Fox of Fiery Fables added.
+CG02 Trog added.
+UU04 Netcaster Troll added.
+UR03 Arrogant Thespian added.
+RZ02 Captured Princess added.
+RZ01 Fabled Knight added.
+UA08 Crumbling Academy added.
+Knight added.
+Cat Cleric added.
+Wisdom added.
+
+CU08 removed.
+CR05 removed.
+CG02 removed.
+UU04 removed.
+UR03 removed.
+RZ02 removed.
+RZ01 removed.
+UA08 removed.
+CAT CLERIC removed.
+WISDOM removed.
+
+CB10 Dragged into Darkness
+
+CR01 Bloodmist Lurker
+rules_text: Whenever Bloodmist Lurker becomes the target of a spell or ability for the first time each turn, it deals 1 damage to each opponent. => [i][i]Spotlight[/i][/i] — Whenever Bloodmist Lurker becomes the target of a spell or ability for the first time each turn, it deals 1 damage to each opponent.
+
+CR04 Accursed Princess
+rules_text: Whenever this creature becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it. Until end of turn, it gains flying and becomes a Dragon in addition to its other types. => [i]Spotlight[/i] —Whenever this creature becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it. Until end of turn, it gains flying and becomes a Dragon in addition to its other types.
+
+UW10 Ravenous Featherfang
+rules_text: Flying
+Whenever Ravenous Featherfang or another creature you control with flying becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it. => Flying
+[i]Share the spotlight[/i] — Whenever Ravenous Featherfang or another creature you control with flying becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it.
+
+UU03 Kalinfal Astronomer
+rules_text: Whenever two or more creatures you control deal combat damage to an opponent, draw a card. => Vigilance
+Whenever a creature deals combat damage to an opponent, surveil 1. If this is the second time this ability has triggered this turn, draw a card.
+
+UB10
+
+UB11
+
+UR02 Wildfire Harpy
+
+UR04
+
+UR05
+
+UR06
+
+UR07
+
+UR08 Face Merchant
+
+UR09
+
+UR10
+
+UR11
+
+UG01
+
+UG02
+
+UG03
+
+UG04
+
+UG05
+
+UG06
+
+UG07
+
+UG08
+
+UG09
+
+UG10
+
+UG11
+
+RW02
+
+RW03
+
+RW04
+
+RW05
+
+RW06
+
+RW07
+
+RU01 Riders of the Tide
+
+RU02
+
+RU03
+
+RU04
+
+RU05
+
+RU06
+
+RU07
+
+RB02
+
+RB03
+
+RB04
+
+RB05
+
+RB06
+
+RB07
+
+RR01
+
+RR02
+
+RR03
+
+RR04
+
+RR05
+
+RR06 Ferocious Dragon
+
+RR07
+
+RG02
+
+RG03
+
+RG04
+
+RG05
+
+RG06
+
+RG07
+
+MW01
+
+MW02
+
+MU01
+
+MU02
+
+MB01 Eclipsebringer
+
+MB02
+
+MR01
+
+MR02
+
+MG01
+
+MG02
+
+UZ03
+
+UZ06
+
+UZ08
+
+UZ10
+
+UZ01
+
+UZ18
+
+UZ13
+
+UZ19 Venusian Knight
+
+UZ16
+
+UZ12
+
+RZ03
+
+RZ04 Skullmask Highwayman
+
+RZ05
+
+RZ09
+
+RZ07
+
+RZ10
+
+RZ08
+
+RZ06 Sylvia of a Thousand Wings
+
+CA01 Variance buster
+
+UA01 Mirror Paladin
+
+CA04 Forsworn's Axe
+
+CA05 Orb of Pondering
+
+CA03 Dreamscape Rambler
+
+UA02
+
+UA03
+
+UA04
+
+UA05
+
+CA06 Mythomorphic Vale
+
+UW12
+
+UW14
+
+UA06
+
+UA07
+
+UA09
+
+UA10
+
+UR12
+
+UR13
+
+UR14
+
+UG12
+
+UG13
+
+UG14
+
+UU12
+
+UU13
+
+UU14
+
+UB12
+
+UB13
+
+UB14
+
+UZ04
+
+UZ05
+
+UZ09
+
+UZ02
+
+UZ17
+
+UZ14
+
+UZ20
+
+UZ15
+
+UZ11
+
+RW08
+
+RU08
+
+RB08
+
+RR08
+
+RG08
+
+RR09
+
+RR10
+
+RG09
+
+RG10
+
+RW09
+
+RW10
+
+RU09
+
+RU10
+
+RB09
+
+RB10
+
+MX01
+
+MX02
+
+MX03
+
+MX04
+
+MX05
+
+MX06
+
+MX07
+
+MX08
+
+MX09
+
+MX10
+
+UR01 Cloud Merchant
+
+CG01 Glimmerfetch
+
+CU14 Top or Bottom
+
+RG01 Seek the Twinbeasts
+
+CA02
+
+UZ07 Argen, Puppet of Szaltr
+
+CU03 Mistmantled Wiseard
+
+RB01 Plunder the Giant's Tomb
+
+RW01 Form a Cult of Fursonality
+rules_text: The first time you complete each objective, create two 1/1 white Cat Cleric creature tokens with lifelink. If all three are complete, sacrifice this enchantment and put two +1/+1 counters on each creature you control.
+Attack with three or more creatures
+Attack with exactly one creature
+Cast two creature spells in a single turn => The first time you complete each objective, create two 1/1 white Cat Cleric creature tokens with lifelink. If all three are complete, sacrifice this enchantment. When you do, put two +1/+1 counters on each creature you control.
+Attack with three or more creatures
+Attack with exactly one creature
+Cast two creature spells in a single turn
+
+UB09
+
+Exquisite Corpse Rules
+
+Exquisite Corpse Guidelines
+
+Insect
+
+Beast
+
+
+VERSION 4 CHANGELOG
 ====================
 
 CU12 Pearl Harvest added.
