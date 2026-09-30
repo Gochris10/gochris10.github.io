@@ -5,7 +5,7 @@
 			<name>EXQ</name>
 			<longname>Exquisite Corpse</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-23</releasedate>
+			<releasedate>2026-09-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -60,18 +60,22 @@
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW03</name>
-			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/3.jpg" num="13">EXQ</set>
+			<name>CW11 Chimera of Chanted Chronicles</name>
+			<text>The first time you complete each objective, put a +1/+1 counter on this creature.
+Target a creature you control with a spell or ability.
+Remove a creature card from a graveyard.
+Cast an enchantment spell.</text>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/3.jpg" num="21">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Enchantment Creature — Beast</type>
 				<maintype>Creature</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -188,16 +192,16 @@
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW11</name>
+			<name>CW03</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/11.jpg" num="21">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/11.jpg" num="13">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature</type>
 				<maintype>Creature</maintype>
-				<manacost>5W</manacost>
-				<cmc>6</cmc>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -270,18 +274,20 @@
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CU01</name>
-			<text></text>
+			<name>CU01 Swift Ferryotter</name>
+			<text>When Swift Ferryotter enters, draw a card, then discard a card.
+{3}{U}: Target creature can&apos;t be blocked until end of turn.</text>
 			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/16.jpg" num="52">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Otter</type>
 				<maintype>Creature</maintype>
 				<manacost>1U</manacost>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -590,26 +596,10 @@ When this creature enters, each player discards a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB07</name>
-			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/35.jpg" num="99">EXQ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost>3B</manacost>
-				<cmc>4</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>CB08 Rider of Kalinfal</name>
 			<text>Menace
-When this creature enters, you may have another target creature gain -2/-2 until end of turn.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/36.jpg" num="100">EXQ</set>
+When this creature enters, you may have another target creature get -2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/35.jpg" num="100">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -626,7 +616,7 @@ When this creature enters, you may have another target creature gain -2/-2 until
 		<card>
 			<name>CB09</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/37.jpg" num="101">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/36.jpg" num="101">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -643,7 +633,7 @@ When this creature enters, you may have another target creature gain -2/-2 until
 			<name>CB10 Dragged into Darkness</name>
 			<text>Target creature gets -3/-3 until end of turn.
 Target player mills three cards.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/38.jpg" num="102">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/37.jpg" num="102">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -659,7 +649,7 @@ Target player mills three cards.</text>
 		<card>
 			<name>CB11 Combat trick</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/39.jpg" num="103">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/38.jpg" num="103">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -676,7 +666,7 @@ Target player mills three cards.</text>
 			<name>CB12 Cradled by the Grave</name>
 			<text>As an additional cost to cast this spell, pay 4 life or exile four cards from your graveyard.
 Draw three cards.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/40.jpg" num="104">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/39.jpg" num="104">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -692,7 +682,7 @@ Draw three cards.</text>
 		<card>
 			<name>CB13 Coercion</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/41.jpg" num="105">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/40.jpg" num="105">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -708,7 +698,7 @@ Draw three cards.</text>
 		<card>
 			<name>CB14 Unconditional removal</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/42.jpg" num="106">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/41.jpg" num="106">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -723,9 +713,9 @@ Draw three cards.</text>
 		</card>
 		<card>
 			<name>CB15 Lead Below</name>
-			<text>This spell costs {1} less to cast if it targets a tapped creature.
+			<text>This spell costs {2} less to cast if it targets a tapped creature.
 Put target creature on the bottom of its owner&apos;s library.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/43.jpg" num="107">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/42.jpg" num="107">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -741,7 +731,7 @@ Put target creature on the bottom of its owner&apos;s library.</text>
 		<card>
 			<name>CR01 Bloodmist Lurker</name>
 			<text>Spotlight — Whenever Bloodmist Lurker becomes the target of a spell or ability for the first time each turn, it deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/44.jpg" num="134">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/43.jpg" num="134">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -758,7 +748,7 @@ Put target creature on the bottom of its owner&apos;s library.</text>
 		<card>
 			<name>CR02</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/45.jpg" num="135">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/44.jpg" num="135">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -774,7 +764,7 @@ Put target creature on the bottom of its owner&apos;s library.</text>
 		<card>
 			<name>CR03</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/46.jpg" num="136">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/45.jpg" num="136">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -790,7 +780,7 @@ Put target creature on the bottom of its owner&apos;s library.</text>
 		<card>
 			<name>CR04 Accursed Princess</name>
 			<text>Spotlight —Whenever this creature becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it. Until end of turn, it gains flying and becomes a Dragon in addition to its other types.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/47.jpg" num="137">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/46.jpg" num="137">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -810,7 +800,7 @@ Put target creature on the bottom of its owner&apos;s library.</text>
 A token enters under your control.
 Attack with three or more creatures.
 Cast a spell with mana value 4 or greater.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/48.jpg" num="138">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/47.jpg" num="138">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -827,7 +817,7 @@ Cast a spell with mana value 4 or greater.</text>
 		<card>
 			<name>CR06</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/49.jpg" num="139">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/48.jpg" num="139">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -843,7 +833,7 @@ Cast a spell with mana value 4 or greater.</text>
 		<card>
 			<name>CR07</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/50.jpg" num="140">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/49.jpg" num="140">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -859,7 +849,7 @@ Cast a spell with mana value 4 or greater.</text>
 		<card>
 			<name>CR08</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/51.jpg" num="141">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/50.jpg" num="141">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -875,7 +865,7 @@ Cast a spell with mana value 4 or greater.</text>
 		<card>
 			<name>CR09</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/52.jpg" num="142">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/51.jpg" num="142">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -892,7 +882,7 @@ Cast a spell with mana value 4 or greater.</text>
 			<name>CR10 Punish Folly</name>
 			<text>This spell costs {2} less to cast if it targets an attacking creature.
 Punish Folly deals 3 damage to target creature.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/53.jpg" num="143">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/52.jpg" num="143">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -908,7 +898,7 @@ Punish Folly deals 3 damage to target creature.</text>
 		<card>
 			<name>CR11 Combat trick</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/54.jpg" num="144">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/53.jpg" num="144">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -924,7 +914,7 @@ Punish Folly deals 3 damage to target creature.</text>
 		<card>
 			<name>CR12 Rummage/impulse</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/55.jpg" num="145">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/54.jpg" num="145">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -940,7 +930,7 @@ Punish Folly deals 3 damage to target creature.</text>
 		<card>
 			<name>CR13 Modal shatter</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/56.jpg" num="146">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/55.jpg" num="146">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -956,7 +946,7 @@ Punish Folly deals 3 damage to target creature.</text>
 		<card>
 			<name>CR14 Direct damage (4)</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/57.jpg" num="147">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/56.jpg" num="147">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -974,7 +964,7 @@ Punish Folly deals 3 damage to target creature.</text>
 			<text>When Starfall Prophecy enters, it deals 5 damage to up to one target creature, planeswalker, or battle.
 Whenever you attack, scry 1.
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/58.jpg" num="148">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/57.jpg" num="148">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -992,7 +982,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>Reach
 When Trog enters, put a +1/+1 counter on target creature.
 When Trog dies, you may move its counters on target creature you control.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/59.jpg" num="176">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/58.jpg" num="176">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1005,6 +995,26 @@ When Trog dies, you may move its counters on target creature you control.</text>
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG04 Deadly Pair</name>
+			<text>Reach, deathtouch
+When Deadly Pair enters, create a 2/2 green Cat creature token.
+Whenever you attack with exactly two creatures, surveil 1.</text>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/59.jpg" num="205">EXQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>Cat</related>
 		</card>
 		<card>
 			<name>CG03</name>
@@ -1023,25 +1033,9 @@ When Trog dies, you may move its counters on target creature you control.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG04</name>
-			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/61.jpg" num="178">EXQ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>CG05</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/62.jpg" num="179">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/61.jpg" num="179">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1057,7 +1051,7 @@ When Trog dies, you may move its counters on target creature you control.</text>
 		<card>
 			<name>CG06</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/63.jpg" num="180">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/62.jpg" num="180">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1074,7 +1068,7 @@ When Trog dies, you may move its counters on target creature you control.</text>
 			<name>CG07 Returned Knight</name>
 			<text>Vigilance
 When Returned Knight enters or dies, you may put a creature or land card from your graveyard on top of your library.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/64.jpg" num="181">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/63.jpg" num="181">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1091,7 +1085,7 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 		<card>
 			<name>CG08</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/65.jpg" num="182">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/64.jpg" num="182">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1106,9 +1100,9 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 		</card>
 		<card>
 			<name>CG09 Callow Treefolk</name>
-			<text>Reach
+			<text>Reach, trample
 {1}{G}, Discard this card: It deals 5 damage to target creature with flying.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/66.jpg" num="183">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/65.jpg" num="183">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1125,7 +1119,7 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 		<card>
 			<name>CG10</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/67.jpg" num="184">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/66.jpg" num="184">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1141,7 +1135,7 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 		<card>
 			<name>CG11 Fight</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/68.jpg" num="185">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/67.jpg" num="185">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1157,7 +1151,7 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 		<card>
 			<name>CG12 Bite</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/69.jpg" num="186">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/68.jpg" num="186">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1173,7 +1167,7 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 		<card>
 			<name>CG13 Combat trick</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/70.jpg" num="187">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/69.jpg" num="187">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1189,7 +1183,7 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 		<card>
 			<name>CG14 Mana acceleration</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/71.jpg" num="188">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/70.jpg" num="188">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1205,7 +1199,7 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 		<card>
 			<name>CG15 At a Crossroad</name>
 			<text>Look at the top five cards of your library. You may reveal a creature, land or Quest card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/72.jpg" num="189">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/71.jpg" num="189">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1221,7 +1215,7 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 		<card>
 			<name>UW01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/73.jpg" num="38">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/72.jpg" num="38">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1238,7 +1232,7 @@ When Returned Knight enters or dies, you may put a creature or land card from yo
 			<name>UW02 Shadow of Faith</name>
 			<text>Flying, vigilance
 You may have Shadow of Faith enter as a copy of any creature card in your graveyard, except it&apos;s a 4/4 Angel creature with flying and vigilance.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/74.jpg" num="39">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/73.jpg" num="39">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1255,7 +1249,7 @@ You may have Shadow of Faith enter as a copy of any creature card in your gravey
 		<card>
 			<name>UW03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/75.jpg" num="40">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/74.jpg" num="40">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1271,7 +1265,7 @@ You may have Shadow of Faith enter as a copy of any creature card in your gravey
 		<card>
 			<name>UW04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/76.jpg" num="41">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/75.jpg" num="41">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1287,7 +1281,7 @@ You may have Shadow of Faith enter as a copy of any creature card in your gravey
 		<card>
 			<name>UW05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/77.jpg" num="42">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/76.jpg" num="42">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1303,7 +1297,7 @@ You may have Shadow of Faith enter as a copy of any creature card in your gravey
 		<card>
 			<name>UW06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/78.jpg" num="43">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/77.jpg" num="43">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1319,7 +1313,7 @@ You may have Shadow of Faith enter as a copy of any creature card in your gravey
 		<card>
 			<name>UW07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/79.jpg" num="44">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/78.jpg" num="44">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1335,7 +1329,7 @@ You may have Shadow of Faith enter as a copy of any creature card in your gravey
 		<card>
 			<name>UW08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/80.jpg" num="45">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/79.jpg" num="45">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1351,7 +1345,7 @@ You may have Shadow of Faith enter as a copy of any creature card in your gravey
 		<card>
 			<name>UW09</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/81.jpg" num="46">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/80.jpg" num="46">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1368,7 +1362,7 @@ You may have Shadow of Faith enter as a copy of any creature card in your gravey
 			<name>UW10 Ravenous Featherfang</name>
 			<text>Flying
 Share the spotlight — Whenever Ravenous Featherfang or another creature you control with flying becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/82.jpg" num="47">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/81.jpg" num="47">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1387,7 +1381,7 @@ Share the spotlight — Whenever Ravenous Featherfang or another creature you co
 			<text>When this Equipment enters, search your library for a Plains card, reveal it, put it into your hand, then shuffle.
 Equipped creature gets +X/+X, where X is the number of Plains you control.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/83.jpg" num="48">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/82.jpg" num="48">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1401,26 +1395,28 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UU01</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/84.jpg" num="79">EXQ</set>
+			<name>UU01 Twins of a Feather</name>
+			<text>Flash
+Flying
+{2}{U}: Return this card from your graveyard to the battlefield tapped and attacking. Activate only if you control an attacking Knight.</text>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/83.jpg" num="79">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Shapeshifter Noble</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UU02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/85.jpg" num="80">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/84.jpg" num="80">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1437,7 +1433,7 @@ Equip {2}</text>
 			<name>UU03 Kalinfal Astronomer</name>
 			<text>Vigilance
 Whenever a creature deals combat damage to an opponent, surveil 1. If this is the second time this ability has triggered this turn, draw a card.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/86.jpg" num="81">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/85.jpg" num="81">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1456,7 +1452,7 @@ Whenever a creature deals combat damage to an opponent, surveil 1. If this is th
 			<text>When this creature enters, choose one —
 • Return another target creature to its owner&apos;s hand.
 • Return target artifact, instant, or sorcery card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/87.jpg" num="82">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/86.jpg" num="82">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1473,7 +1469,7 @@ Whenever a creature deals combat damage to an opponent, surveil 1. If this is th
 		<card>
 			<name>UU05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/88.jpg" num="83">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/87.jpg" num="83">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1489,7 +1485,7 @@ Whenever a creature deals combat damage to an opponent, surveil 1. If this is th
 		<card>
 			<name>UU06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/89.jpg" num="84">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/88.jpg" num="84">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1505,7 +1501,7 @@ Whenever a creature deals combat damage to an opponent, surveil 1. If this is th
 		<card>
 			<name>UU07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/90.jpg" num="85">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/89.jpg" num="85">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1521,7 +1517,7 @@ Whenever a creature deals combat damage to an opponent, surveil 1. If this is th
 		<card>
 			<name>UU08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/91.jpg" num="86">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/90.jpg" num="86">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1537,7 +1533,7 @@ Whenever a creature deals combat damage to an opponent, surveil 1. If this is th
 		<card>
 			<name>UU09</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/92.jpg" num="87">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/91.jpg" num="87">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1553,7 +1549,7 @@ Whenever a creature deals combat damage to an opponent, surveil 1. If this is th
 		<card>
 			<name>UU10</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/93.jpg" num="88">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/92.jpg" num="88">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1569,7 +1565,7 @@ Whenever a creature deals combat damage to an opponent, surveil 1. If this is th
 		<card>
 			<name>UU11</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/94.jpg" num="89">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/93.jpg" num="89">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1586,7 +1582,7 @@ Whenever a creature deals combat damage to an opponent, surveil 1. If this is th
 			<name>UB01 Fenwitch</name>
 			<text>Menace
 When you draw your third card in a turn, return this card from your graveyard to the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/95.jpg" num="120">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/94.jpg" num="120">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1603,7 +1599,7 @@ When you draw your third card in a turn, return this card from your graveyard to
 		<card>
 			<name>UB02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/96.jpg" num="121">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/95.jpg" num="121">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1619,7 +1615,7 @@ When you draw your third card in a turn, return this card from your graveyard to
 		<card>
 			<name>UB03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/97.jpg" num="122">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/96.jpg" num="122">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1633,25 +1629,27 @@ When you draw your third card in a turn, return this card from your graveyard to
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UB04</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/98.jpg" num="123">EXQ</set>
+			<name>UB04 Pactbound Executioner</name>
+			<text>Menace
+Whenever a creature you control deals combat damage to an opponent, that player loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/97.jpg" num="123">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Horror Knight</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UB05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/99.jpg" num="124">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/98.jpg" num="124">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1667,7 +1665,7 @@ When you draw your third card in a turn, return this card from your graveyard to
 		<card>
 			<name>UB06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/100.jpg" num="125">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/99.jpg" num="125">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1683,7 +1681,7 @@ When you draw your third card in a turn, return this card from your graveyard to
 		<card>
 			<name>UB07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/101.jpg" num="126">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/100.jpg" num="126">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1701,7 +1699,7 @@ When you draw your third card in a turn, return this card from your graveyard to
 			<text>Enchant creature
 Enchanted creature gets +2/+2.
 {B}{B}, Sacrifice a nontoken creature you control: Enchanted creature gains indestructible until end of turn.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/102.jpg" num="127">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/101.jpg" num="127">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1717,7 +1715,7 @@ Enchanted creature gets +2/+2.
 		<card>
 			<name>UB10</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/103.jpg" num="129">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/102.jpg" num="129">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1733,7 +1731,7 @@ Enchanted creature gets +2/+2.
 		<card>
 			<name>UB11</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/104.jpg" num="130">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/103.jpg" num="130">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1750,7 +1748,7 @@ Enchanted creature gets +2/+2.
 			<name>UR02 Wildfire Harpy</name>
 			<text>Flying
 When Wildfire Harpy enters, you may sacrifice a land. If you do, draw a card. You may play an additional land this turn.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/105.jpg" num="162">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/104.jpg" num="162">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1768,7 +1766,7 @@ When Wildfire Harpy enters, you may sacrifice a land. If you do, draw a card. Yo
 			<name>UR03 Arrogant Thespian</name>
 			<text>Trample
 Spotlight — Whenever Arrogant Thespian becomes the target of a spell or ability for the first time each turn, exile the top card of your library. You may play it until the end of your next turn.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/106.jpg" num="163">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/105.jpg" num="163">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1785,7 +1783,7 @@ Spotlight — Whenever Arrogant Thespian becomes the target of a spell or abilit
 		<card>
 			<name>UR04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/107.jpg" num="164">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/106.jpg" num="164">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1801,7 +1799,7 @@ Spotlight — Whenever Arrogant Thespian becomes the target of a spell or abilit
 		<card>
 			<name>UR05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/108.jpg" num="165">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/107.jpg" num="165">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1817,7 +1815,7 @@ Spotlight — Whenever Arrogant Thespian becomes the target of a spell or abilit
 		<card>
 			<name>UR06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/109.jpg" num="166">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/108.jpg" num="166">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1833,7 +1831,7 @@ Spotlight — Whenever Arrogant Thespian becomes the target of a spell or abilit
 		<card>
 			<name>UR07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/110.jpg" num="167">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/109.jpg" num="167">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1850,7 +1848,7 @@ Spotlight — Whenever Arrogant Thespian becomes the target of a spell or abilit
 			<name>UR08 Face Merchant</name>
 			<text>Face Merchant enters with a first strike counter, a trample counter, a haste counter, and a +1/+1 counter.
 Whenever a creature you control enters, you may move a counter from Face Merchant onto that creature.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/111.jpg" num="168">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/110.jpg" num="168">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1865,16 +1863,17 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR09</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/112.jpg" num="169">EXQ</set>
+			<name>UR09 War Upon Us</name>
+			<text>Whenever a nontoken creature you control enters, create a 1/1 red Soldier token with haste.
+Nontoken creatures you control have battle cry. (Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/111.jpg" num="169">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -1883,7 +1882,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UR10</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/113.jpg" num="170">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/112.jpg" num="170">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1899,7 +1898,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UR11</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/114.jpg" num="171">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/113.jpg" num="171">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1915,7 +1914,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UG01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/115.jpg" num="202">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/114.jpg" num="202">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1931,7 +1930,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UG02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/116.jpg" num="203">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/115.jpg" num="203">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1945,32 +1944,35 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG03</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/117.jpg" num="204">EXQ</set>
+			<name>RG03 The Lady of Lily Pond</name>
+			<text>Reach
+Other creatures you control have reach.
+{T}: Add X {G}, where X is equal to the length of your fable. (Your fable consists of up to one of each of artifact, enchantment, Knight, and Noble.)</text>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/116.jpg" num="194">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Legendary Creature — Frog Noble</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG04</name>
+			<name>CG04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/118.jpg" num="205">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/117.jpg" num="178">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -1979,7 +1981,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UG05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/119.jpg" num="206">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/118.jpg" num="206">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1995,7 +1997,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UG06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/120.jpg" num="207">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/119.jpg" num="207">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2011,7 +2013,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UG07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/121.jpg" num="208">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/120.jpg" num="208">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2027,7 +2029,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UG08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/122.jpg" num="209">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/121.jpg" num="209">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2043,7 +2045,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UG09</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/123.jpg" num="210">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/122.jpg" num="210">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2059,7 +2061,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UG10</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/124.jpg" num="211">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/123.jpg" num="211">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2075,7 +2077,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>UG11</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/125.jpg" num="212">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/124.jpg" num="212">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2091,7 +2093,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RW02</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/126.jpg" num="29">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/125.jpg" num="29">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2107,7 +2109,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RW03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/127.jpg" num="30">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/126.jpg" num="30">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2123,7 +2125,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RW04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/128.jpg" num="31">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/127.jpg" num="31">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2139,7 +2141,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RW05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/129.jpg" num="32">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/128.jpg" num="32">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2155,7 +2157,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RW06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/130.jpg" num="33">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/129.jpg" num="33">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2171,7 +2173,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RW07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/131.jpg" num="34">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/130.jpg" num="34">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2187,7 +2189,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RU01 Riders of the Tide</name>
 			<text>When Riders of the Tide enters, exile up to two other target creatures. Return them to the battlefield tapped and attacking at the beginning of combat on their owner&apos;s turn.</text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/132.jpg" num="69">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/131.jpg" num="69">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2204,7 +2206,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RU02</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/133.jpg" num="70">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/132.jpg" num="70">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2220,7 +2222,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RU03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/134.jpg" num="71">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/133.jpg" num="71">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2236,7 +2238,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RU04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/135.jpg" num="72">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/134.jpg" num="72">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2252,7 +2254,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RU05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/136.jpg" num="73">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/135.jpg" num="73">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2268,7 +2270,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RU06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/137.jpg" num="74">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/136.jpg" num="74">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2284,7 +2286,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RU07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/138.jpg" num="75">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/137.jpg" num="75">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2300,7 +2302,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RB02</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/139.jpg" num="111">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/138.jpg" num="111">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2316,7 +2318,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RB03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/140.jpg" num="112">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/139.jpg" num="112">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2332,7 +2334,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RB04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/141.jpg" num="113">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/140.jpg" num="113">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2348,7 +2350,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RB05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/142.jpg" num="114">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/141.jpg" num="114">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2364,7 +2366,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RB06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/143.jpg" num="115">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/142.jpg" num="115">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2380,7 +2382,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RB07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/144.jpg" num="116">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/143.jpg" num="116">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2396,7 +2398,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RR01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/145.jpg" num="151">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/144.jpg" num="151">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2412,7 +2414,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RR02</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/146.jpg" num="152">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/145.jpg" num="152">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2428,7 +2430,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RR03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/147.jpg" num="153">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/146.jpg" num="153">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2444,7 +2446,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RR04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/148.jpg" num="154">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/147.jpg" num="154">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2460,7 +2462,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 		<card>
 			<name>RR05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/149.jpg" num="155">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/148.jpg" num="155">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2477,7 +2479,7 @@ Whenever a creature you control enters, you may move a counter from Face Merchan
 			<name>RR06 Ferocious Dragon</name>
 			<text>Flying
 When this creature enters, it deals 4 damage to any target and 4 damage to you.</text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/150.jpg" num="156">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/149.jpg" num="156">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2494,7 +2496,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 		<card>
 			<name>RR07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/151.jpg" num="157">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/150.jpg" num="157">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2510,7 +2512,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 		<card>
 			<name>RG02</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/152.jpg" num="193">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/151.jpg" num="193">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2524,9 +2526,9 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RG03</name>
+			<name>UG03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/153.jpg" num="194">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/152.jpg" num="204">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2542,7 +2544,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 		<card>
 			<name>RG04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/154.jpg" num="195">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/153.jpg" num="195">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2558,7 +2560,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 		<card>
 			<name>RG05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/155.jpg" num="196">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/154.jpg" num="196">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2574,7 +2576,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 		<card>
 			<name>RG06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/156.jpg" num="197">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/155.jpg" num="197">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2590,7 +2592,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 		<card>
 			<name>RG07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/157.jpg" num="198">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/156.jpg" num="198">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2606,7 +2608,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 		<card>
 			<name>MW01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/158.jpg" num="26">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/157.jpg" num="26">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2622,7 +2624,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 		<card>
 			<name>MW02</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/159.jpg" num="27">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/158.jpg" num="27">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2638,7 +2640,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 		<card>
 			<name>MU01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/160.jpg" num="67">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/159.jpg" num="67">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2654,7 +2656,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 		<card>
 			<name>MU02</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/161.jpg" num="68">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/160.jpg" num="68">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2672,7 +2674,7 @@ When this creature enters, it deals 4 damage to any target and 4 damage to you.<
 			<text>Flying
 {1}{B}, Pay 2 life: Draw a card.
 When Eclipsebringer dies, return it to the battlefield with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/162.jpg" num="108">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/161.jpg" num="108">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2689,7 +2691,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>MB02</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/163.jpg" num="109">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/162.jpg" num="109">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2705,7 +2707,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>MR01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/164.jpg" num="149">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/163.jpg" num="149">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2721,7 +2723,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>MR02</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/165.jpg" num="150">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/164.jpg" num="150">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2737,7 +2739,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>MG01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/166.jpg" num="190">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/165.jpg" num="190">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2753,7 +2755,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>MG02</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/167.jpg" num="191">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/166.jpg" num="191">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2769,7 +2771,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>UZ03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/168.jpg" num="228">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/167.jpg" num="228">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2785,7 +2787,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>UZ06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/169.jpg" num="231">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/168.jpg" num="231">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2801,7 +2803,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>UZ08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/170.jpg" num="233">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/169.jpg" num="233">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2817,7 +2819,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>UZ10</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/171.jpg" num="235">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/170.jpg" num="235">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2833,7 +2835,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>UZ01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/172.jpg" num="226">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/171.jpg" num="226">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2849,7 +2851,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>UZ18</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/173.jpg" num="243">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/172.jpg" num="243">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2863,26 +2865,27 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UZ13</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/174.jpg" num="238">EXQ</set>
+			<name>UZ13 Sail the Dreamsea</name>
+			<text>This spell costs {X} less to cast, where X is the length of your fable. (Your fable consists of up to one of each of artifact, enchantment, Knight, and Noble.)
+Draw three cards. Sail the Dreamsea deals 1 damage to each opponent and each creature your opponents control.</text>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/173.jpg" num="238">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>UR</manacost>
-				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>UZ19 Venusian Knight</name>
 			<text>Flying, vigilance, deathtouch
 {T}: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/175.jpg" num="244">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/174.jpg" num="244">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2899,7 +2902,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>UZ16</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/176.jpg" num="241">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/175.jpg" num="241">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2915,7 +2918,7 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		<card>
 			<name>UZ12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/177.jpg" num="237">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/176.jpg" num="237">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2930,9 +2933,9 @@ When Eclipsebringer dies, return it to the battlefield with a finality counter o
 		</card>
 		<card>
 			<name>RZ02 Captured Princess</name>
-			<text>When Captured Princess enters, you draw two cards and gain 2 life. If you cast Captured Princess, exile it until a creature an opponent controls leaves the battlefield.
+			<text>When Captured Princess enters, you draw two cards and gain 2 life. If you cast this, choose a creature an opponent controls and exile Captured Princess until the chosen creature controls leaves the battlefield.
 Other creatures you control get +1/+1.</text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/178.jpg" num="217">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/177.jpg" num="217">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2947,26 +2950,30 @@ Other creatures you control get +1/+1.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RZ03</name>
-			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/179.jpg" num="218">EXQ</set>
+			<name>RZ03 Necroarcanite</name>
+			<text>Flying, vigilance, ward {2}
+Whenever you draw a card, each opponent loses 1 life and you gain 1 life.
+{T}, Exile four cards from your graveyard: Create a Wisdom token. (It&apos;s a blue enchantment with &quot;{2}, Sacrifice this token: Draw two cards, then discard two cards.&quot;)</text>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/178.jpg" num="218">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>UB</manacost>
-				<cmc>2</cmc>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
+			<related>Wisdom</related>
 		</card>
 		<card>
 			<name>RZ04 Skullmask Highwayman</name>
 			<text>Double strike, menace, trample
 Ward—Discard a card.</text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/180.jpg" num="219">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/179.jpg" num="219">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2983,7 +2990,7 @@ Ward—Discard a card.</text>
 		<card>
 			<name>RZ05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/181.jpg" num="220">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/180.jpg" num="220">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3000,7 +3007,7 @@ Ward—Discard a card.</text>
 			<name>RZ01 Fabled Knight</name>
 			<text>Enchantment spells you cast cost {X} less to cast, where X is Fabled Knight&apos;s power.
 Whenever you complete a Quest, create a 2/2 white Knight token with vigilance, then put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/182.jpg" num="216">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/181.jpg" num="216">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3017,7 +3024,7 @@ Whenever you complete a Quest, create a 2/2 white Knight token with vigilance, t
 		<card>
 			<name>RZ09</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/183.jpg" num="224">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/182.jpg" num="224">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3033,7 +3040,7 @@ Whenever you complete a Quest, create a 2/2 white Knight token with vigilance, t
 		<card>
 			<name>RZ07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/184.jpg" num="222">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/183.jpg" num="222">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3049,7 +3056,7 @@ Whenever you complete a Quest, create a 2/2 white Knight token with vigilance, t
 		<card>
 			<name>RZ10</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/185.jpg" num="225">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/184.jpg" num="225">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3065,7 +3072,7 @@ Whenever you complete a Quest, create a 2/2 white Knight token with vigilance, t
 		<card>
 			<name>RZ08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/186.jpg" num="223">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/185.jpg" num="223">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3083,7 +3090,7 @@ Whenever you complete a Quest, create a 2/2 white Knight token with vigilance, t
 			<text>Flash
 When Sylvia of a Thousand Wings enters, you may untap any number of nontoken tapped creatures you control. For each creature untapped this way, create a 0/1 green Insect token with Flying.
 Insects you control get +1/+1.</text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/187.jpg" num="221">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/186.jpg" num="221">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3098,23 +3105,25 @@ Insects you control get +1/+1.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CA01 Variance buster</name>
-			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/188.jpg" num="246">EXQ</set>
+			<name>CA01 Candlelight Messenger</name>
+			<text>When this creature enters, scry 2.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/187.jpg" num="246">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature</type>
+				<type>Artifact Creature — Construct</type>
 				<maintype>Creature</maintype>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UA01 Mirror Paladin</name>
 			<text>Whenever Mirror Paladin attacks, up to one target creature becomes a copy of it until end of turn.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/189.jpg" num="251">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/188.jpg" num="251">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3131,7 +3140,7 @@ Insects you control get +1/+1.</text>
 			<text>Equipped creature gets +2/+0 and gains menace.
 Equip {2}
 {7}, Discard Forsworn&apos;s Axe: Destroy target creature. If you control a Knight, Forsworn&apos;s Axe deals 3 damage to that creature&apos;s controller.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/190.jpg" num="249">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/189.jpg" num="249">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3147,7 +3156,7 @@ Equip {2}
 			<text>You may have Orb of Pondering enter tapped. If you do, tap target creature.
 {T}: Add {C}.
 {3}, {T}, Sacrifice Orb of Pondering: Scry 2.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/191.jpg" num="250">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/190.jpg" num="250">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3162,7 +3171,7 @@ Equip {2}
 			<name>CA03 Dreamscape Rambler</name>
 			<text>Whenever you discard a card, this creature can&apos;t be blocked this turn.
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/192.jpg" num="248">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/191.jpg" num="248">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3175,23 +3184,25 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UA02</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/193.jpg" num="252">EXQ</set>
+			<name>UA02 Soul Gate</name>
+			<text>If an opponent would draw a card except the first card they draw during each of their draw steps, you may pay 1 life. If you do, they skip that draw.
+{2}, {T}, Discard a card: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/192.jpg" num="252">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature</type>
+				<type>Artifact Creature — Horror</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UA03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/194.jpg" num="253">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/193.jpg" num="253">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3205,7 +3216,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UA04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/195.jpg" num="254">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/194.jpg" num="254">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3219,7 +3230,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UA05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/196.jpg" num="255">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/195.jpg" num="255">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3234,7 +3245,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<name>CA06 Mythomorphic Vale</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 {T}, Sacrifice this land: Put target Knight card from your graveyard on top of your library.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/197.jpg" num="258">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/196.jpg" num="258">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3248,7 +3259,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UW12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/198.jpg" num="49">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/197.jpg" num="49">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3264,7 +3275,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UW14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/199.jpg" num="51">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/198.jpg" num="51">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3280,7 +3291,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UA06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/200.jpg" num="256">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/199.jpg" num="256">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3294,7 +3305,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UA07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/201.jpg" num="257">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/200.jpg" num="257">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3309,7 +3320,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<name>UA08 Crumbling Academy</name>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add one mana of any color. You can&apos;t spend this mana to cast creature spells.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/202.jpg" num="259">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/201.jpg" num="259">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3323,7 +3334,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UA09</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/203.jpg" num="260">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/202.jpg" num="260">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3337,7 +3348,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UA10</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/204.jpg" num="261">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/203.jpg" num="261">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3351,7 +3362,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UR12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/205.jpg" num="172">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/204.jpg" num="172">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3367,7 +3378,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UR13</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/206.jpg" num="173">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/205.jpg" num="173">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3383,7 +3394,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UR14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/207.jpg" num="174">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/206.jpg" num="174">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3399,7 +3410,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UG12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/208.jpg" num="213">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/207.jpg" num="213">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3415,7 +3426,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UG13</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/209.jpg" num="214">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/208.jpg" num="214">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3431,7 +3442,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UG14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/210.jpg" num="215">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/209.jpg" num="215">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3447,7 +3458,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UU12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/211.jpg" num="90">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/210.jpg" num="90">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3463,7 +3474,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UU13</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/212.jpg" num="91">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/211.jpg" num="91">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3479,7 +3490,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UU14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/213.jpg" num="92">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/212.jpg" num="92">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3495,7 +3506,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UB12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/214.jpg" num="131">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/213.jpg" num="131">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3511,7 +3522,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UB13</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/215.jpg" num="132">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/214.jpg" num="132">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3527,7 +3538,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UB14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/216.jpg" num="133">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/215.jpg" num="133">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3543,7 +3554,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UZ04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/217.jpg" num="229">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/216.jpg" num="229">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3559,7 +3570,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UZ05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/218.jpg" num="230">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/217.jpg" num="230">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3575,7 +3586,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UZ09</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/219.jpg" num="234">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/218.jpg" num="234">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3591,7 +3602,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UZ02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/220.jpg" num="227">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/219.jpg" num="227">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3607,7 +3618,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UZ17</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/221.jpg" num="242">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/220.jpg" num="242">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3623,7 +3634,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UZ14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/222.jpg" num="239">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/221.jpg" num="239">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3639,7 +3650,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UZ20</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/223.jpg" num="245">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/222.jpg" num="245">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3655,7 +3666,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UZ15</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/224.jpg" num="240">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/223.jpg" num="240">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3671,7 +3682,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>UZ11</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/225.jpg" num="236">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/224.jpg" num="236">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3687,7 +3698,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RW08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/226.jpg" num="35">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/225.jpg" num="35">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3703,7 +3714,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RU08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/227.jpg" num="76">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/226.jpg" num="76">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3719,7 +3730,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RB08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/228.jpg" num="117">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/227.jpg" num="117">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3735,7 +3746,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RR08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/229.jpg" num="158">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/228.jpg" num="158">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3751,7 +3762,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RG08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/230.jpg" num="199">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/229.jpg" num="199">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3767,7 +3778,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RR09</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/231.jpg" num="159">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/230.jpg" num="159">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3783,7 +3794,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RR10</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/232.jpg" num="160">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/231.jpg" num="160">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3799,7 +3810,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RG09</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/233.jpg" num="200">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/232.jpg" num="200">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3815,7 +3826,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RG10</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/234.jpg" num="201">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/233.jpg" num="201">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3831,7 +3842,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RW09</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/235.jpg" num="36">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/234.jpg" num="36">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3847,7 +3858,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RW10</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/236.jpg" num="37">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/235.jpg" num="37">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3863,7 +3874,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RU09</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/237.jpg" num="77">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/236.jpg" num="77">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3879,7 +3890,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RU10</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/238.jpg" num="78">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/237.jpg" num="78">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3895,7 +3906,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RB09</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/239.jpg" num="118">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/238.jpg" num="118">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3911,7 +3922,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>RB10</name>
 			<text></text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/240.jpg" num="119">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/239.jpg" num="119">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3927,7 +3938,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>MX01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/241.jpg" num="1">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/240.jpg" num="1">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3941,7 +3952,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>MX02</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/242.jpg" num="2">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/241.jpg" num="2">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3955,7 +3966,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>MX03</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/243.jpg" num="3">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/242.jpg" num="3">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3969,7 +3980,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>MX04</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/244.jpg" num="4">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/243.jpg" num="4">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3983,7 +3994,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>MX05</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/245.jpg" num="5">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/244.jpg" num="5">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3997,7 +4008,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>MX06</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/246.jpg" num="6">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/245.jpg" num="6">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4011,7 +4022,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>MX07</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/247.jpg" num="7">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/246.jpg" num="7">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4025,7 +4036,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>MX08</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/248.jpg" num="8">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/247.jpg" num="8">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4039,7 +4050,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>MX09</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/249.jpg" num="9">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/248.jpg" num="9">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4053,7 +4064,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>MX10</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/250.jpg" num="10">EXQ</set>
+			<set rarity="mythic" picurl="https://gochris10.github.io/sets/EXQ-files/img/249.jpg" num="10">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4069,7 +4080,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>Sponsor (Whenever this creature becomes tapped, another target creature gains the following abilities until end of turn.)
 Flying
 {2}{R}, {T}, Discard a card: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/251.jpg" num="161">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/250.jpg" num="161">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4086,7 +4097,7 @@ Flying
 		<card>
 			<name>CG01 Glimmerfetch</name>
 			<text>{T}, Tap another untapped artifact or creature you control: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/252.jpg" num="175">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/251.jpg" num="175">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4103,7 +4114,7 @@ Flying
 		<card>
 			<name>CU14 Top or Bottom</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/253.jpg" num="65">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/252.jpg" num="65">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4122,7 +4133,7 @@ Flying
 Attack with exactly two creatures.
 A token enters under your control.
 Cast a spell with mana value 4 or greater.</text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/254.jpg" num="192">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/253.jpg" num="192">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4138,7 +4149,7 @@ Cast a spell with mana value 4 or greater.</text>
 		<card>
 			<name>CA02</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/255.jpg" num="247">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/254.jpg" num="247">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4154,7 +4165,7 @@ Cast a spell with mana value 4 or greater.</text>
 			<text>Sacrifice three non-Dragon creatures: Choose one —
 • Return target Dragon card from your graveyard to the battlefield.
 • Add {B}{B}{R}{R}.</text>
-			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/256.jpg" num="232">EXQ</set>
+			<set rarity="uncommon" picurl="https://gochris10.github.io/sets/EXQ-files/img/255.jpg" num="232">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4172,7 +4183,7 @@ Cast a spell with mana value 4 or greater.</text>
 			<name>CU03 Mistmantled Wiseard</name>
 			<text>Sponsor (Whenever this creature becomes tapped, another target creature gains the following abilities until end of turn.)
 Whenever this creature deals combat damage to a player, draw a card.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/257.jpg" num="54">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/256.jpg" num="54">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4192,7 +4203,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 Sacrifice a creature or artifact.
 A creature you control deals damage to a player.
 Cast a spell with mana value 4 or greater.</text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/258.jpg" num="110">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/257.jpg" num="110">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4211,7 +4222,7 @@ Cast a spell with mana value 4 or greater.</text>
 Attack with three or more creatures
 Attack with exactly one creature
 Cast two creature spells in a single turn</text>
-			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/259.jpg" num="28">EXQ</set>
+			<set rarity="rare" picurl="https://gochris10.github.io/sets/EXQ-files/img/258.jpg" num="28">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4228,7 +4239,7 @@ Cast two creature spells in a single turn</text>
 		<card>
 			<name>UB09</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/260.jpg" num="128">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/259.jpg" num="128">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4242,9 +4253,47 @@ Cast two creature spells in a single turn</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
+			<name>CB07 Troll of Terrible Tales</name>
+			<text>The first time you complete each objective, put a +1/+1 counter on this creature and it gains menace until end of turn.
+Cast two creature spells in a single turn
+Attack with three or more creatures.
+Sacrifice a permanent.</text>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/260.jpg" num="99">EXQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Troll Quest</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soldier EXQ</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/261.jpg" num="6">EXQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
 			<name>Knight EXQ</name>
 			<text>Vigilance</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/261.jpg" num="4">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/262.jpg" num="4">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4275,7 +4324,7 @@ Cast two creature spells in a single turn</text>
 [b]Then...[/b]
 • Post the set file + all your changes.
 • Include this rules card in your post!</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/262.jpg" num="2">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/263.jpg" num="2">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4295,7 +4344,7 @@ Cast two creature spells in a single turn</text>
 • Stick to the mainframe templates, to keep things accessible for other designers.
 (You can add a new guideline or change an existing guideline on your turn.)
 (Feel free to change the set skeleton and leave notes for other designers!)</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/263.jpg" num="1">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/264.jpg" num="1">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4310,7 +4359,7 @@ Cast two creature spells in a single turn</text>
 		<card>
 			<name>Insect EXQ</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/264.jpg" num="7">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/265.jpg" num="9">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4328,7 +4377,7 @@ Cast two creature spells in a single turn</text>
 		<card>
 			<name>Beast EXQ</name>
 			<text></text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/265.jpg" num="6">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/266.jpg" num="7">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4346,7 +4395,7 @@ Cast two creature spells in a single turn</text>
 		<card>
 			<name>Cat Cleric EXQ</name>
 			<text>Lifelink</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/266.jpg" num="3">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/267.jpg" num="3">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4354,6 +4403,8 @@ Cast two creature spells in a single turn</text>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -4362,7 +4413,7 @@ Cast two creature spells in a single turn</text>
 		<card>
 			<name>Wisdom EXQ</name>
 			<text>{2}, Sacrifice this token: Draw two cards, then discard two cards.</text>
-			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/267.jpg" num="5">EXQ</set>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/268.jpg" num="5">EXQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4374,6 +4425,24 @@ Cast two creature spells in a single turn</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Cat EXQ</name>
+			<text></text>
+			<set rarity="common" picurl="https://gochris10.github.io/sets/EXQ-files/img/269.jpg" num="8">EXQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
 			<token>1</token>
 		</card>
 	</cards>

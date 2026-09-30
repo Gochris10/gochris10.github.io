@@ -1,4 +1,503 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+RG03 The Lady of Lily Pond
+
+
+VERSION 6 CHANGELOG
+====================
+
+CW11 Chimera of Chanted Chronicles added.
+CU01 Swift Ferryotter added.
+UG04 Deadly Pair added.
+UU01 Twins of a Feather added.
+UB04 Pactbound Executioner added.
+UR09 War Upon Us added.
+RG03 The Lady of Lily Pond added.
+UZ13 Sail the Dreamsea added.
+RZ03 Necroarcanite added.
+CA01 Candlelight Messenger added.
+UA02 Soul Gate added.
+CB07 Troll of Terrible Tales added.
+Soldier added.
+Cat added.
+
+CW11 removed.
+CU01 removed.
+CB07 removed.
+UU01 removed.
+UB04 removed.
+UR09 removed.
+UG04 removed.
+RG03 removed.
+UZ13 removed.
+RZ03 removed.
+CA01 Variance buster removed.
+UA02 removed.
+
+CW03
+
+CB08 Rider of Kalinfal
+rules_text: Menace
+When this creature enters, you may have another target creature gain -2/-2 until end of turn. => Menace
+When this creature enters, you may have another target creature get -2/-2 until end of turn.
+
+CB09
+
+CB10 Dragged into Darkness
+
+CB11 Combat trick
+
+CB12 Cradled by the Grave
+
+CB13 Coercion
+
+CB14 Unconditional removal
+
+CB15 Lead Below
+rules_text: This spell costs {1} less to cast if it targets a tapped creature.
+Put target creature on the bottom of its owner's library. => This spell costs {2} less to cast if it targets a tapped creature.
+Put target creature on the bottom of its owner's library.
+
+CR01 Bloodmist Lurker
+
+CR02
+
+CR03
+
+CR04 Accursed Princess
+
+CR05 Fox of Fiery Fables
+
+CR06
+
+CR07
+
+CR08
+
+CR09
+
+CR10 Punish Folly
+
+CR11 Combat trick
+
+CR12 Rummage/impulse
+
+CR13 Modal shatter
+
+CR14 Direct damage (4)
+
+CR15 Starfall Prophecy
+
+CG02 Trog
+
+CG05
+
+CG06
+
+CG07 Returned Knight
+
+CG08
+
+CG09 Callow Treefolk
+rules_text: Reach
+{1}{G}, Discard this card: It deals 5 damage to target creature with flying. => Reach, trample
+{1}{G}, Discard this card: It deals 5 damage to target creature with flying.
+
+CG10
+
+CG11 Fight
+
+CG12 Bite
+
+CG13 Combat trick
+
+CG14 Mana acceleration
+
+CG15 At a Crossroad
+
+UW01
+
+UW02 Shadow of Faith
+
+UW03
+
+UW04
+
+UW05
+
+UW06
+
+UW07
+
+UW08
+
+UW09
+
+UW10 Ravenous Featherfang
+
+UW11 Giant's Cloak
+
+UU02
+
+UU03 Kalinfal Astronomer
+
+UU04 Netcaster Troll
+
+UU05
+
+UU06
+
+UU07
+
+UU08
+
+UU09
+
+UU10
+
+UU11
+
+UB01 Fenwitch
+
+UB02
+
+UB03
+
+UB05
+
+UB06
+
+UB07
+
+UB08 Sinister Strength
+
+UB10
+
+UB11
+
+UR02 Wildfire Harpy
+
+UR03 Arrogant Thespian
+
+UR04
+
+UR05
+
+UR06
+
+UR07
+
+UR08 Face Merchant
+
+UR10
+
+UR11
+
+UG01
+
+UG02
+
+CG04
+
+UG05
+
+UG06
+
+UG07
+
+UG08
+
+UG09
+
+UG10
+
+UG11
+
+RW02
+
+RW03
+
+RW04
+
+RW05
+
+RW06
+
+RW07
+
+RU01 Riders of the Tide
+
+RU02
+
+RU03
+
+RU04
+
+RU05
+
+RU06
+
+RU07
+
+RB02
+
+RB03
+
+RB04
+
+RB05
+
+RB06
+
+RB07
+
+RR01
+
+RR02
+
+RR03
+
+RR04
+
+RR05
+
+RR06 Ferocious Dragon
+
+RR07
+
+RG02
+
+UG03
+type: Creature => 
+
+RG04
+
+RG05
+
+RG06
+
+RG07
+
+MW01
+
+MW02
+
+MU01
+
+MU02
+
+MB01 Eclipsebringer
+
+MB02
+
+MR01
+
+MR02
+
+MG01
+
+MG02
+
+UZ03
+
+UZ06
+
+UZ08
+
+UZ10
+
+UZ01
+
+UZ18
+
+UZ19 Venusian Knight
+
+UZ16
+
+UZ12
+
+RZ02 Captured Princess
+rules_text: When Captured Princess enters, you draw two cards and gain 2 life. If you cast Captured Princess, exile it until a creature an opponent controls leaves the battlefield.
+Other creatures you control get +1/+1. => When Captured Princess enters, you draw two cards and gain 2 life. If you cast this, choose a creature an opponent controls and exile Captured Princess until the chosen creature controls leaves the battlefield.
+Other creatures you control get +1/+1.
+
+RZ04 Skullmask Highwayman
+
+RZ05
+
+RZ01 Fabled Knight
+
+RZ09
+
+RZ07
+
+RZ10
+
+RZ08
+
+RZ06 Sylvia of a Thousand Wings
+
+UA01 Mirror Paladin
+
+CA04 Forsworn's Axe
+
+CA05 Orb of Pondering
+
+CA03 Dreamscape Rambler
+
+UA03
+
+UA04
+
+UA05
+
+CA06 Mythomorphic Vale
+
+UW12
+
+UW14
+
+UA06
+
+UA07
+
+UA08 Crumbling Academy
+
+UA09
+
+UA10
+
+UR12
+
+UR13
+
+UR14
+
+UG12
+
+UG13
+
+UG14
+
+UU12
+
+UU13
+
+UU14
+
+UB12
+
+UB13
+
+UB14
+
+UZ04
+
+UZ05
+
+UZ09
+
+UZ02
+
+UZ17
+
+UZ14
+
+UZ20
+
+UZ15
+
+UZ11
+
+RW08
+
+RU08
+
+RB08
+
+RR08
+
+RG08
+
+RR09
+
+RR10
+
+RG09
+
+RG10
+
+RW09
+
+RW10
+
+RU09
+
+RU10
+
+RB09
+
+RB10
+
+MX01
+
+MX02
+
+MX03
+
+MX04
+
+MX05
+
+MX06
+
+MX07
+
+MX08
+
+MX09
+
+MX10
+
+UR01 Cloud Merchant
+
+CG01 Glimmerfetch
+
+CU14 Top or Bottom
+
+RG01 Seek the Twinbeasts
+
+CA02
+
+UZ07 Argen, Puppet of Szaltr
+
+CU03 Mistmantled Wiseard
+
+RB01 Plunder the Giant's Tomb
+
+RW01 Form a Cult of Fursonality
+
+UB09
+
+Knight
+
+Exquisite Corpse Rules
+
+Exquisite Corpse Guidelines
+
+Insect
+
+Beast
+
+Cat Cleric
+
+Wisdom
+
+
+VERSION 5 CHANGELOG
 ====================
 
 CU08 Serpent of Sunken Stories added.
