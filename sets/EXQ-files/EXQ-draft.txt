@@ -101,10 +101,10 @@
 			}
 		},
 		{
-			"name": "CW10",
+			"name": "CW10 Valiant Griffin Rider",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
-			"type": "Creature",
+			"type": "Creature — Human Soldier",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/10.jpg"
@@ -481,23 +481,13 @@
 			}
 		},
 		{
-			"name": "CR06",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature",
-			"collector_number": "139",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/48.jpg"
-			}
-		},
-		{
 			"name": "CR07",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature",
-			"collector_number": "140",
+			"type": "Sorcery",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/49.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/48.jpg"
 			}
 		},
 		{
@@ -505,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/50.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/49.jpg"
 			}
 		},
 		{
@@ -515,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/51.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/50.jpg"
 			}
 		},
 		{
@@ -525,13 +515,23 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "CR11 Combat trick",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
 			"collector_number": "143",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/52.jpg"
 			}
 		},
 		{
-			"name": "CR11 Combat trick",
+			"name": "CR12 Rummage/impulse",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
@@ -541,7 +541,7 @@
 			}
 		},
 		{
-			"name": "CR12 Rummage/impulse",
+			"name": "CR13 Modal shatter",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
@@ -551,7 +551,7 @@
 			}
 		},
 		{
-			"name": "CR13 Modal shatter",
+			"name": "CR14 Direct damage (4)",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
@@ -561,23 +561,13 @@
 			}
 		},
 		{
-			"name": "CR14 Direct damage (4)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "147",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/56.jpg"
-			}
-		},
-		{
 			"name": "CR15 Starfall Prophecy",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Enchantment",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/57.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/56.jpg"
 			}
 		},
 		{
@@ -585,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/58.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/57.jpg"
 			}
 		},
 		{
@@ -595,9 +585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Archer",
-			"collector_number": "205",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/59.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/58.jpg"
 			}
 		},
 		{
@@ -605,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/60.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/59.jpg"
 			}
 		},
 		{
@@ -615,19 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/61.jpg"
-			}
-		},
-		{
-			"name": "CG06",
-			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Creature",
-			"collector_number": "180",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/62.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/60.jpg"
 			}
 		},
 		{
@@ -635,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "181",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/63.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/61.jpg"
 			}
 		},
 		{
@@ -645,9 +625,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature",
-			"collector_number": "182",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/64.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/62.jpg"
 			}
 		},
 		{
@@ -655,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "183",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/65.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/63.jpg"
 			}
 		},
 		{
@@ -665,13 +645,33 @@
 			"rarity": "common",
 			"mana_cost": "{6}{G}",
 			"type": "Creature",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "CG11 Fight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "CG12 Bite",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
 			"collector_number": "184",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/66.jpg"
 			}
 		},
 		{
-			"name": "CG11 Fight",
+			"name": "CG13 Combat trick",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
@@ -681,7 +681,7 @@
 			}
 		},
 		{
-			"name": "CG12 Bite",
+			"name": "CG14 Mana acceleration",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
@@ -691,33 +691,13 @@
 			}
 		},
 		{
-			"name": "CG13 Combat trick",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "187",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/69.jpg"
-			}
-		},
-		{
-			"name": "CG14 Mana acceleration",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/70.jpg"
-			}
-		},
-		{
 			"name": "CG15 At a Crossroad",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "189",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/71.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/69.jpg"
 			}
 		},
 		{
@@ -727,7 +707,7 @@
 			"type": "",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/72.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/70.jpg"
 			}
 		},
 		{
@@ -737,7 +717,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/73.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/71.jpg"
 			}
 		},
 		{
@@ -747,17 +727,17 @@
 			"type": "Creature",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/74.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/72.jpg"
 			}
 		},
 		{
-			"name": "UW04",
+			"name": "UW04 Champion of Ilheim",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dwarf Knight",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/75.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/73.jpg"
 			}
 		},
 		{
@@ -767,7 +747,7 @@
 			"type": "Creature",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/76.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/74.jpg"
 			}
 		},
 		{
@@ -777,7 +757,7 @@
 			"type": "Creature",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/77.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/75.jpg"
 			}
 		},
 		{
@@ -787,7 +767,7 @@
 			"type": "Creature",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/78.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/76.jpg"
 			}
 		},
 		{
@@ -797,7 +777,7 @@
 			"type": "Creature",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/79.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/77.jpg"
 			}
 		},
 		{
@@ -807,7 +787,7 @@
 			"type": "Creature",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/80.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/78.jpg"
 			}
 		},
 		{
@@ -817,7 +797,7 @@
 			"type": "Creature — Bird Wolf",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/81.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/79.jpg"
 			}
 		},
 		{
@@ -827,7 +807,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/82.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/80.jpg"
 			}
 		},
 		{
@@ -837,17 +817,17 @@
 			"type": "Creature — Shapeshifter Noble",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/83.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/81.jpg"
 			}
 		},
 		{
-			"name": "UU02",
+			"name": "UR01",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "80",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/84.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/82.jpg"
 			}
 		},
 		{
@@ -857,7 +837,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/85.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/83.jpg"
 			}
 		},
 		{
@@ -867,7 +847,7 @@
 			"type": "Creature — Troll",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/86.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/84.jpg"
 			}
 		},
 		{
@@ -877,7 +857,7 @@
 			"type": "Creature",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/87.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/85.jpg"
 			}
 		},
 		{
@@ -887,7 +867,7 @@
 			"type": "Creature",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/88.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/86.jpg"
 			}
 		},
 		{
@@ -897,7 +877,7 @@
 			"type": "",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/89.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/87.jpg"
 			}
 		},
 		{
@@ -907,7 +887,7 @@
 			"type": "",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/90.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/88.jpg"
 			}
 		},
 		{
@@ -917,7 +897,7 @@
 			"type": "",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/91.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/89.jpg"
 			}
 		},
 		{
@@ -927,7 +907,7 @@
 			"type": "",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/92.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/90.jpg"
 			}
 		},
 		{
@@ -937,7 +917,7 @@
 			"type": "",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/93.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/91.jpg"
 			}
 		},
 		{
@@ -947,7 +927,7 @@
 			"type": "Creature — Vampire Warlock",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/94.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/92.jpg"
 			}
 		},
 		{
@@ -957,7 +937,7 @@
 			"type": "Creature",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/95.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/93.jpg"
 			}
 		},
 		{
@@ -967,7 +947,7 @@
 			"type": "Creature",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/96.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/94.jpg"
 			}
 		},
 		{
@@ -977,17 +957,17 @@
 			"type": "Creature — Horror Knight",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/97.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/95.jpg"
 			}
 		},
 		{
-			"name": "UB05",
+			"name": "UB05 Spawn of Szaltr",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Dragon Noble",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/98.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/96.jpg"
 			}
 		},
 		{
@@ -997,7 +977,7 @@
 			"type": "Creature",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/99.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/97.jpg"
 			}
 		},
 		{
@@ -1007,7 +987,7 @@
 			"type": "Creature",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/100.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/98.jpg"
 			}
 		},
 		{
@@ -1017,7 +997,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/101.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/99.jpg"
 			}
 		},
 		{
@@ -1027,7 +1007,7 @@
 			"type": "",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/102.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/100.jpg"
 			}
 		},
 		{
@@ -1037,7 +1017,7 @@
 			"type": "",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/103.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/101.jpg"
 			}
 		},
 		{
@@ -1045,9 +1025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental Harpy",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/104.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/102.jpg"
 			}
 		},
 		{
@@ -1055,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Clown Performer",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/105.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/103.jpg"
 			}
 		},
 		{
@@ -1065,29 +1045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/106.jpg"
-			}
-		},
-		{
-			"name": "UR05",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "165",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/107.jpg"
-			}
-		},
-		{
-			"name": "UR06",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "166",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/108.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/104.jpg"
 			}
 		},
 		{
@@ -1095,9 +1055,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "167",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/109.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "UZ08",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "UR06 Warden of Peaks",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Troll Warrior",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/107.jpg"
 			}
 		},
 		{
@@ -1105,9 +1085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Horror Peasant",
-			"collector_number": "168",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/110.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/108.jpg"
 			}
 		},
 		{
@@ -1115,9 +1095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/111.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/109.jpg"
 			}
 		},
 		{
@@ -1125,19 +1105,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/112.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/110.jpg"
 			}
 		},
 		{
-			"name": "UR11",
+			"name": "UR11 Volatile Afterimage",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "171",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/113.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/111.jpg"
 			}
 		},
 		{
@@ -1145,9 +1125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "202",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/114.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/112.jpg"
 			}
 		},
 		{
@@ -1155,9 +1135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "203",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/115.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/113.jpg"
 			}
 		},
 		{
@@ -1165,9 +1145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Frog Noble",
-			"collector_number": "194",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/116.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/114.jpg"
 			}
 		},
 		{
@@ -1175,13 +1155,33 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
-			"collector_number": "178",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "CZ05 Honeyed Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}",
+			"type": "Creature — Beast Horror Archer",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "UG05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creature",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/117.jpg"
 			}
 		},
 		{
-			"name": "UG05",
+			"name": "UG07",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
@@ -1191,7 +1191,7 @@
 			}
 		},
 		{
-			"name": "UG06",
+			"name": "UG08",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
@@ -1201,7 +1201,7 @@
 			}
 		},
 		{
-			"name": "UG07",
+			"name": "UG09",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
@@ -1211,33 +1211,13 @@
 			}
 		},
 		{
-			"name": "UG08",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "209",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/121.jpg"
-			}
-		},
-		{
-			"name": "UG09",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "210",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/122.jpg"
-			}
-		},
-		{
 			"name": "UG10",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "211",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/123.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/121.jpg"
 			}
 		},
 		{
@@ -1245,9 +1225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "212",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/124.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/122.jpg"
 			}
 		},
 		{
@@ -1257,7 +1237,7 @@
 			"type": "",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/125.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/123.jpg"
 			}
 		},
 		{
@@ -1267,7 +1247,7 @@
 			"type": "",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/126.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/124.jpg"
 			}
 		},
 		{
@@ -1277,7 +1257,7 @@
 			"type": "",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/127.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/125.jpg"
 			}
 		},
 		{
@@ -1287,7 +1267,7 @@
 			"type": "",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/128.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/126.jpg"
 			}
 		},
 		{
@@ -1297,7 +1277,7 @@
 			"type": "",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/129.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/127.jpg"
 			}
 		},
 		{
@@ -1307,7 +1287,7 @@
 			"type": "",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/130.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/128.jpg"
 			}
 		},
 		{
@@ -1317,7 +1297,7 @@
 			"type": "Creature — Spirit Knight",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/131.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/129.jpg"
 			}
 		},
 		{
@@ -1327,7 +1307,7 @@
 			"type": "",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/132.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/130.jpg"
 			}
 		},
 		{
@@ -1337,7 +1317,7 @@
 			"type": "",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/133.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/131.jpg"
 			}
 		},
 		{
@@ -1347,7 +1327,7 @@
 			"type": "",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/134.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/132.jpg"
 			}
 		},
 		{
@@ -1357,7 +1337,7 @@
 			"type": "",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/135.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/133.jpg"
 			}
 		},
 		{
@@ -1367,7 +1347,7 @@
 			"type": "",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/136.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/134.jpg"
 			}
 		},
 		{
@@ -1377,7 +1357,7 @@
 			"type": "",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/137.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/135.jpg"
 			}
 		},
 		{
@@ -1387,7 +1367,7 @@
 			"type": "",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/138.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/136.jpg"
 			}
 		},
 		{
@@ -1397,7 +1377,7 @@
 			"type": "",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/139.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/137.jpg"
 			}
 		},
 		{
@@ -1407,7 +1387,7 @@
 			"type": "",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/140.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/138.jpg"
 			}
 		},
 		{
@@ -1417,7 +1397,7 @@
 			"type": "",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/141.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/139.jpg"
 			}
 		},
 		{
@@ -1427,7 +1407,7 @@
 			"type": "",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/142.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/140.jpg"
 			}
 		},
 		{
@@ -1437,7 +1417,7 @@
 			"type": "",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/143.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/141.jpg"
 			}
 		},
 		{
@@ -1445,9 +1425,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/144.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/142.jpg"
 			}
 		},
 		{
@@ -1455,9 +1435,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/145.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/143.jpg"
 			}
 		},
 		{
@@ -1465,9 +1445,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/146.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/144.jpg"
 			}
 		},
 		{
@@ -1475,9 +1455,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/147.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/145.jpg"
 			}
 		},
 		{
@@ -1485,9 +1465,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/148.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/146.jpg"
 			}
 		},
 		{
@@ -1495,9 +1475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/149.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/147.jpg"
 			}
 		},
 		{
@@ -1505,13 +1485,33 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "157",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "RG02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "UG03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/150.jpg"
 			}
 		},
 		{
-			"name": "RG02",
+			"name": "RG04",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
@@ -1521,17 +1521,17 @@
 			}
 		},
 		{
-			"name": "UG03",
-			"rarity": "uncommon",
+			"name": "RG05",
+			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "204",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/152.jpg"
 			}
 		},
 		{
-			"name": "RG04",
+			"name": "RG06",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
@@ -1541,7 +1541,7 @@
 			}
 		},
 		{
-			"name": "RG05",
+			"name": "RG07",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
@@ -1551,33 +1551,13 @@
 			}
 		},
 		{
-			"name": "RG06",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "197",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/155.jpg"
-			}
-		},
-		{
-			"name": "RG07",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "198",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/156.jpg"
-			}
-		},
-		{
 			"name": "MW01",
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/157.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/155.jpg"
 			}
 		},
 		{
@@ -1587,7 +1567,7 @@
 			"type": "",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/158.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/156.jpg"
 			}
 		},
 		{
@@ -1597,7 +1577,7 @@
 			"type": "",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/159.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/157.jpg"
 			}
 		},
 		{
@@ -1607,7 +1587,7 @@
 			"type": "",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/160.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/158.jpg"
 			}
 		},
 		{
@@ -1617,7 +1597,7 @@
 			"type": "Creature — Vampire Dragon",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/161.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/159.jpg"
 			}
 		},
 		{
@@ -1627,7 +1607,7 @@
 			"type": "",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/162.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/160.jpg"
 			}
 		},
 		{
@@ -1635,9 +1615,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/163.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/161.jpg"
 			}
 		},
 		{
@@ -1645,9 +1625,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/164.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/162.jpg"
 			}
 		},
 		{
@@ -1655,9 +1635,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "190",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/165.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/163.jpg"
 			}
 		},
 		{
@@ -1665,9 +1645,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "191",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/166.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/164.jpg"
 			}
 		},
 		{
@@ -1675,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "",
-			"collector_number": "228",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/167.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/165.jpg"
 			}
 		},
 		{
@@ -1685,19 +1665,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "",
-			"collector_number": "231",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/168.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/166.jpg"
 			}
 		},
 		{
-			"name": "UZ08",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{R}",
-			"type": "",
-			"collector_number": "233",
+			"name": "CZ04 Beast of Avarice",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Dragon Horror",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/169.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/167.jpg"
 			}
 		},
 		{
@@ -1705,9 +1685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "",
-			"collector_number": "235",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/170.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/168.jpg"
 			}
 		},
 		{
@@ -1715,9 +1695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "",
-			"collector_number": "226",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/171.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/169.jpg"
 			}
 		},
 		{
@@ -1725,9 +1705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "",
-			"collector_number": "243",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/172.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/170.jpg"
 			}
 		},
 		{
@@ -1735,9 +1715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Instant",
-			"collector_number": "238",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/173.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/171.jpg"
 			}
 		},
 		{
@@ -1745,9 +1725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Faerie Knight",
-			"collector_number": "244",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/174.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/172.jpg"
 			}
 		},
 		{
@@ -1755,9 +1735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "",
-			"collector_number": "241",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/175.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/173.jpg"
 			}
 		},
 		{
@@ -1765,9 +1745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "",
-			"collector_number": "237",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/176.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/174.jpg"
 			}
 		},
 		{
@@ -1775,9 +1755,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Creature — Human Noble",
-			"collector_number": "217",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/177.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/175.jpg"
 			}
 		},
 		{
@@ -1785,9 +1765,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "218",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/178.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/176.jpg"
 			}
 		},
 		{
@@ -1795,19 +1775,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "219",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/179.jpg"
-			}
-		},
-		{
-			"name": "RZ05",
-			"rarity": "rare",
-			"mana_cost": "{R}{G}",
-			"type": "",
-			"collector_number": "220",
-			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/180.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/177.jpg"
 			}
 		},
 		{
@@ -1815,9 +1785,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "216",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/181.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/178.jpg"
 			}
 		},
 		{
@@ -1825,9 +1795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "",
-			"collector_number": "224",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/182.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/179.jpg"
 			}
 		},
 		{
@@ -1835,9 +1805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "",
-			"collector_number": "222",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/183.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/180.jpg"
 			}
 		},
 		{
@@ -1845,9 +1815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "",
-			"collector_number": "225",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/184.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/181.jpg"
 			}
 		},
 		{
@@ -1855,9 +1825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "",
-			"collector_number": "223",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/185.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/182.jpg"
 			}
 		},
 		{
@@ -1865,9 +1835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Elf Knight",
-			"collector_number": "221",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/186.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/183.jpg"
 			}
 		},
 		{
@@ -1877,7 +1847,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/187.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/184.jpg"
 			}
 		},
 		{
@@ -1887,7 +1857,7 @@
 			"type": "Artifact Creature — Knight",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/188.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/185.jpg"
 			}
 		},
 		{
@@ -1897,7 +1867,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/189.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/186.jpg"
 			}
 		},
 		{
@@ -1907,7 +1877,7 @@
 			"type": "Artifact",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/190.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/187.jpg"
 			}
 		},
 		{
@@ -1917,7 +1887,7 @@
 			"type": "Artifact Creature — Beast",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/191.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/188.jpg"
 			}
 		},
 		{
@@ -1927,7 +1897,7 @@
 			"type": "Artifact Creature — Horror",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/192.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/189.jpg"
 			}
 		},
 		{
@@ -1937,7 +1907,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/193.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/190.jpg"
 			}
 		},
 		{
@@ -1947,7 +1917,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/194.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/191.jpg"
 			}
 		},
 		{
@@ -1957,7 +1927,7 @@
 			"type": "Artifact",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/195.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/192.jpg"
 			}
 		},
 		{
@@ -1967,7 +1937,7 @@
 			"type": "Land",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/196.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/193.jpg"
 			}
 		},
 		{
@@ -1977,7 +1947,7 @@
 			"type": "",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/197.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/194.jpg"
 			}
 		},
 		{
@@ -1987,7 +1957,7 @@
 			"type": "",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/198.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/195.jpg"
 			}
 		},
 		{
@@ -1997,7 +1967,7 @@
 			"type": "Artifact",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/199.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/196.jpg"
 			}
 		},
 		{
@@ -2007,7 +1977,7 @@
 			"type": "Artifact",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/200.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/197.jpg"
 			}
 		},
 		{
@@ -2017,7 +1987,7 @@
 			"type": "Land",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/201.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/198.jpg"
 			}
 		},
 		{
@@ -2027,7 +1997,7 @@
 			"type": "Land",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/202.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/199.jpg"
 			}
 		},
 		{
@@ -2037,7 +2007,7 @@
 			"type": "Land",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/203.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/200.jpg"
 			}
 		},
 		{
@@ -2045,9 +2015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/204.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/201.jpg"
 			}
 		},
 		{
@@ -2055,9 +2025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/205.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/202.jpg"
 			}
 		},
 		{
@@ -2065,9 +2035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/206.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/203.jpg"
 			}
 		},
 		{
@@ -2075,9 +2045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "213",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/207.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/204.jpg"
 			}
 		},
 		{
@@ -2085,9 +2055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "214",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/208.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/205.jpg"
 			}
 		},
 		{
@@ -2095,9 +2065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "215",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/209.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/206.jpg"
 			}
 		},
 		{
@@ -2107,7 +2077,7 @@
 			"type": "",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/210.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/207.jpg"
 			}
 		},
 		{
@@ -2117,7 +2087,7 @@
 			"type": "",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/211.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/208.jpg"
 			}
 		},
 		{
@@ -2127,7 +2097,7 @@
 			"type": "",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/212.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/209.jpg"
 			}
 		},
 		{
@@ -2137,7 +2107,7 @@
 			"type": "",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/213.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/210.jpg"
 			}
 		},
 		{
@@ -2147,7 +2117,7 @@
 			"type": "",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/214.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/211.jpg"
 			}
 		},
 		{
@@ -2157,7 +2127,7 @@
 			"type": "",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/215.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/212.jpg"
 			}
 		},
 		{
@@ -2165,9 +2135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "",
-			"collector_number": "229",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/216.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/213.jpg"
 			}
 		},
 		{
@@ -2175,9 +2145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "",
-			"collector_number": "230",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/217.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/214.jpg"
 			}
 		},
 		{
@@ -2185,9 +2155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "",
-			"collector_number": "234",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/218.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/215.jpg"
 			}
 		},
 		{
@@ -2195,9 +2165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "",
-			"collector_number": "227",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/219.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/216.jpg"
 			}
 		},
 		{
@@ -2205,9 +2175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "",
-			"collector_number": "242",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/220.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/217.jpg"
 			}
 		},
 		{
@@ -2215,9 +2185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "",
-			"collector_number": "239",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/221.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/218.jpg"
 			}
 		},
 		{
@@ -2225,9 +2195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "",
-			"collector_number": "245",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/222.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/219.jpg"
 			}
 		},
 		{
@@ -2235,9 +2205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "",
-			"collector_number": "240",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/223.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/220.jpg"
 			}
 		},
 		{
@@ -2245,9 +2215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "",
-			"collector_number": "236",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/224.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/221.jpg"
 			}
 		},
 		{
@@ -2257,7 +2227,7 @@
 			"type": "",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/225.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/222.jpg"
 			}
 		},
 		{
@@ -2267,7 +2237,7 @@
 			"type": "",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/226.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/223.jpg"
 			}
 		},
 		{
@@ -2277,7 +2247,7 @@
 			"type": "",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/227.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/224.jpg"
 			}
 		},
 		{
@@ -2285,9 +2255,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/228.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/225.jpg"
 			}
 		},
 		{
@@ -2295,9 +2265,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "199",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/229.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/226.jpg"
 			}
 		},
 		{
@@ -2305,9 +2275,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/230.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/227.jpg"
 			}
 		},
 		{
@@ -2315,9 +2285,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/231.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/228.jpg"
 			}
 		},
 		{
@@ -2325,9 +2295,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "200",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/232.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/229.jpg"
 			}
 		},
 		{
@@ -2335,9 +2305,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "201",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/233.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/230.jpg"
 			}
 		},
 		{
@@ -2347,7 +2317,7 @@
 			"type": "",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/234.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/231.jpg"
 			}
 		},
 		{
@@ -2357,7 +2327,7 @@
 			"type": "",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/235.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/232.jpg"
 			}
 		},
 		{
@@ -2367,7 +2337,7 @@
 			"type": "",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/236.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/233.jpg"
 			}
 		},
 		{
@@ -2377,7 +2347,7 @@
 			"type": "",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/237.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/234.jpg"
 			}
 		},
 		{
@@ -2387,7 +2357,7 @@
 			"type": "",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/238.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/235.jpg"
 			}
 		},
 		{
@@ -2397,7 +2367,7 @@
 			"type": "",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/239.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/236.jpg"
 			}
 		},
 		{
@@ -2407,7 +2377,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/240.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/237.jpg"
 			}
 		},
 		{
@@ -2417,7 +2387,7 @@
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/241.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/238.jpg"
 			}
 		},
 		{
@@ -2427,7 +2397,7 @@
 			"type": "",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/242.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/239.jpg"
 			}
 		},
 		{
@@ -2437,7 +2407,7 @@
 			"type": "",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/243.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/240.jpg"
 			}
 		},
 		{
@@ -2447,7 +2417,7 @@
 			"type": "",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/244.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/241.jpg"
 			}
 		},
 		{
@@ -2457,7 +2427,7 @@
 			"type": "",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/245.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/242.jpg"
 			}
 		},
 		{
@@ -2467,7 +2437,7 @@
 			"type": "",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/246.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/243.jpg"
 			}
 		},
 		{
@@ -2477,7 +2447,7 @@
 			"type": "",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/247.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/244.jpg"
 			}
 		},
 		{
@@ -2487,7 +2457,7 @@
 			"type": "",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/248.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/245.jpg"
 			}
 		},
 		{
@@ -2497,17 +2467,17 @@
 			"type": "",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/249.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/246.jpg"
 			}
 		},
 		{
-			"name": "UR01 Cloud Merchant",
+			"name": "UU02 Cloud Merchant",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "161",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/250.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/247.jpg"
 			}
 		},
 		{
@@ -2515,9 +2485,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Faerie Druid",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/251.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/248.jpg"
 			}
 		},
 		{
@@ -2527,7 +2497,7 @@
 			"type": "",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/252.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/249.jpg"
 			}
 		},
 		{
@@ -2535,9 +2505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Quest",
-			"collector_number": "192",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/253.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/250.jpg"
 			}
 		},
 		{
@@ -2547,17 +2517,17 @@
 			"type": "Artifact Creature",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/254.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/251.jpg"
 			}
 		},
 		{
 			"name": "UZ07 Argen, Puppet of Szaltr",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{R}",
-			"type": "Legendary creature — Human Dragon Noble",
-			"collector_number": "232",
+			"type": "Legendary Creature — Human Dragon Noble",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/255.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/252.jpg"
 			}
 		},
 		{
@@ -2567,7 +2537,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/256.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/253.jpg"
 			}
 		},
 		{
@@ -2577,7 +2547,7 @@
 			"type": "Enchantment — Quest",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/257.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/254.jpg"
 			}
 		},
 		{
@@ -2587,17 +2557,17 @@
 			"type": "Enchantment — Quest",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/258.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/255.jpg"
 			}
 		},
 		{
-			"name": "UB09",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
+			"name": "UB09 Tombcall Prophecy",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/259.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/256.jpg"
 			}
 		},
 		{
@@ -2607,7 +2577,17 @@
 			"type": "Enchantment Creature — Troll Quest",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/260.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "RZ05 Boltdrinker Pack",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/258.jpg"
 			}
 		},
 		{
@@ -2617,7 +2597,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/261.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/259.jpg"
 			}
 		},
 		{
@@ -2627,7 +2607,7 @@
 			"type": "Token Creature — Knight",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/262.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/260.jpg"
 			}
 		},
 		{
@@ -2637,7 +2617,7 @@
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/263.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/261.jpg"
 			}
 		},
 		{
@@ -2647,7 +2627,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/264.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/262.jpg"
 			}
 		},
 		{
@@ -2657,7 +2637,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/265.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/263.jpg"
 			}
 		},
 		{
@@ -2667,7 +2647,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/266.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/264.jpg"
 			}
 		},
 		{
@@ -2677,7 +2657,7 @@
 			"type": "Token Creature — Cat Cleric",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/267.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/265.jpg"
 			}
 		},
 		{
@@ -2687,7 +2667,7 @@
 			"type": "Token Enchantment — Wisdom",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://gochris10.github.io/sets/EXQ-files/img/268.jpg"
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/266.jpg"
 			}
 		},
 		{
@@ -2696,6 +2676,26 @@
 			"mana_cost": "",
 			"type": "Token Creature — Cat",
 			"collector_number": "8",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "UR05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creature",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://gochris10.github.io/sets/EXQ-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "UG06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creature",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://gochris10.github.io/sets/EXQ-files/img/269.jpg"
 			}
@@ -2748,7 +2748,6 @@
 	2 RZ02 Captured Princess
 	2 RZ03 Necroarcanite
 	2 RZ04 Skullmask Highwayman
-	2 RZ05
 	2 RZ01 Fabled Knight
 	2 RZ09
 	2 RZ07
@@ -2783,13 +2782,14 @@
 	2 RG01 Seek the Twinbeasts
 	2 RB01 Plunder the Giant's Tomb
 	2 RW01 Form a Cult of Fursonality
+	2 RZ05 Boltdrinker Pack
 [uncommon(3)]
 	4 UW13
 	4 UG04 Deadly Pair
 	4 UW01
 	4 UW02 Shadow of Faith
 	4 UW03
-	4 UW04
+	4 UW04 Champion of Ilheim
 	4 UW05
 	4 UW06
 	4 UW07
@@ -2798,7 +2798,7 @@
 	4 UW10 Ravenous Featherfang
 	4 UW11 Giant's Cloak
 	4 UU01 Twins of a Feather
-	4 UU02
+	4 UR01
 	4 UU03 Kalinfal Astronomer
 	4 UU04 Netcaster Troll
 	4 UU05
@@ -2812,7 +2812,7 @@
 	4 UB02
 	4 UB03
 	4 UB04 Pactbound Executioner
-	4 UB05
+	4 UB05 Spawn of Szaltr
 	4 UB06
 	4 UB07
 	4 UB08 Sinister Strength
@@ -2821,18 +2821,17 @@
 	4 UR02 Wildfire Harpy
 	4 UR03 Arrogant Thespian
 	4 UR04
-	4 UR05
-	4 UR06
 	4 UR07
+	4 UZ08
+	4 UR06 Warden of Peaks
 	4 UR08 Face Merchant
 	4 UR09 War Upon Us
 	4 UR10
-	4 UR11
+	4 UR11 Volatile Afterimage
 	4 UG01
 	4 UG02
 	4 CG04
 	4 UG05
-	4 UG06
 	4 UG07
 	4 UG08
 	4 UG09
@@ -2841,7 +2840,6 @@
 	4 UG03
 	4 UZ03
 	4 UZ06
-	4 UZ08
 	4 UZ10
 	4 UZ01
 	4 UZ18
@@ -2882,8 +2880,11 @@
 	4 UZ20
 	4 UZ15
 	4 UZ11
-	4 UR01 Cloud Merchant
+	4 UU02 Cloud Merchant
 	4 UZ07 Argen, Puppet of Szaltr
+	4 UB09 Tombcall Prophecy
+	4 UR05
+	4 UG06
 [common(6)]
 	8 CW01 Resting Youth
 	8 CW02 Loyal Pariah
@@ -2894,7 +2895,7 @@
 	8 CW07
 	8 CW08
 	8 CW09
-	8 CW10
+	8 CW10 Valiant Griffin Rider
 	8 CW03
 	8 CW15 Disenchant/removal
 	8 CW13 Banishing Light
@@ -2932,7 +2933,6 @@
 	8 CR03
 	8 CR04 Accursed Princess
 	8 CR05 Fox of Fiery Fables
-	8 CR06
 	8 CR07
 	8 CR08
 	8 CR09
@@ -2945,7 +2945,6 @@
 	8 CG02 Trog
 	8 CG03
 	8 CG05
-	8 CG06
 	8 CG07 Returned Knight
 	8 CG08
 	8 CG09 Callow Treefolk
@@ -2955,6 +2954,8 @@
 	8 CG13 Combat trick
 	8 CG14 Mana acceleration
 	8 CG15 At a Crossroad
+	8 CZ05 Honeyed Hunter
+	8 CZ04 Beast of Avarice
 	8 CA01 Candlelight Messenger
 	8 CA04 Forsworn's Axe
 	8 CA05 Orb of Pondering
@@ -2964,7 +2965,6 @@
 	8 CU14 Top or Bottom
 	8 CA02
 	8 CU03 Mistmantled Wiseard
-	8 UB09
 	8 CB07 Troll of Terrible Tales
 [common | masterpiece(1)]
 	8 CW01 Resting Youth
@@ -2976,7 +2976,7 @@
 	8 CW07
 	8 CW08
 	8 CW09
-	8 CW10
+	8 CW10 Valiant Griffin Rider
 	8 CW03
 	8 CW15 Disenchant/removal
 	8 CW13 Banishing Light
@@ -3014,7 +3014,6 @@
 	8 CR03
 	8 CR04 Accursed Princess
 	8 CR05 Fox of Fiery Fables
-	8 CR06
 	8 CR07
 	8 CR08
 	8 CR09
@@ -3027,7 +3026,6 @@
 	8 CG02 Trog
 	8 CG03
 	8 CG05
-	8 CG06
 	8 CG07 Returned Knight
 	8 CG08
 	8 CG09 Callow Treefolk
@@ -3037,6 +3035,8 @@
 	8 CG13 Combat trick
 	8 CG14 Mana acceleration
 	8 CG15 At a Crossroad
+	8 CZ05 Honeyed Hunter
+	8 CZ04 Beast of Avarice
 	8 CA01 Candlelight Messenger
 	8 CA04 Forsworn's Axe
 	8 CA05 Orb of Pondering
@@ -3046,7 +3046,6 @@
 	8 CU14 Top or Bottom
 	8 CA02
 	8 CU03 Mistmantled Wiseard
-	8 UB09
 	8 CB07 Troll of Terrible Tales
 [foil(1)]
 	6 UW13
@@ -3059,7 +3058,7 @@
 	12 CW07
 	12 CW08
 	12 CW09
-	12 CW10
+	12 CW10 Valiant Griffin Rider
 	12 CW03
 	12 CW15 Disenchant/removal
 	12 CW13 Banishing Light
@@ -3097,7 +3096,6 @@
 	12 CR03
 	12 CR04 Accursed Princess
 	12 CR05 Fox of Fiery Fables
-	12 CR06
 	12 CR07
 	12 CR08
 	12 CR09
@@ -3111,7 +3109,6 @@
 	6 UG04 Deadly Pair
 	12 CG03
 	12 CG05
-	12 CG06
 	12 CG07 Returned Knight
 	12 CG08
 	12 CG09 Callow Treefolk
@@ -3124,7 +3121,7 @@
 	6 UW01
 	6 UW02 Shadow of Faith
 	6 UW03
-	6 UW04
+	6 UW04 Champion of Ilheim
 	6 UW05
 	6 UW06
 	6 UW07
@@ -3133,7 +3130,7 @@
 	6 UW10 Ravenous Featherfang
 	6 UW11 Giant's Cloak
 	6 UU01 Twins of a Feather
-	6 UU02
+	6 UR01
 	6 UU03 Kalinfal Astronomer
 	6 UU04 Netcaster Troll
 	6 UU05
@@ -3147,7 +3144,7 @@
 	6 UB02
 	6 UB03
 	6 UB04 Pactbound Executioner
-	6 UB05
+	6 UB05 Spawn of Szaltr
 	6 UB06
 	6 UB07
 	6 UB08 Sinister Strength
@@ -3156,19 +3153,19 @@
 	6 UR02 Wildfire Harpy
 	6 UR03 Arrogant Thespian
 	6 UR04
-	6 UR05
-	6 UR06
 	6 UR07
+	6 UZ08
+	6 UR06 Warden of Peaks
 	6 UR08 Face Merchant
 	6 UR09 War Upon Us
 	6 UR10
-	6 UR11
+	6 UR11 Volatile Afterimage
 	6 UG01
 	6 UG02
 	2 RG03 The Lady of Lily Pond
 	6 CG04
+	12 CZ05 Honeyed Hunter
 	6 UG05
-	6 UG06
 	6 UG07
 	6 UG08
 	6 UG09
@@ -3218,7 +3215,7 @@
 	1 MG02
 	6 UZ03
 	6 UZ06
-	6 UZ08
+	12 CZ04 Beast of Avarice
 	6 UZ10
 	6 UZ01
 	6 UZ18
@@ -3229,7 +3226,6 @@
 	2 RZ02 Captured Princess
 	2 RZ03 Necroarcanite
 	2 RZ04 Skullmask Highwayman
-	2 RZ05
 	2 RZ01 Fabled Knight
 	2 RZ09
 	2 RZ07
@@ -3299,7 +3295,7 @@
 	1 MX08
 	1 MX09
 	1 MX10
-	6 UR01 Cloud Merchant
+	6 UU02 Cloud Merchant
 	12 CG01 Glimmerfetch
 	12 CU14 Top or Bottom
 	2 RG01 Seek the Twinbeasts
@@ -3308,8 +3304,11 @@
 	12 CU03 Mistmantled Wiseard
 	2 RB01 Plunder the Giant's Tomb
 	2 RW01 Form a Cult of Fursonality
-	12 UB09
+	6 UB09 Tombcall Prophecy
 	12 CB07 Troll of Terrible Tales
+	2 RZ05 Boltdrinker Pack
+	6 UR05
+	6 UG06
 [wildcard(1)]
 	15 UW13
 	6 CW01 Resting Youth
@@ -3321,7 +3320,7 @@
 	6 CW07
 	6 CW08
 	6 CW09
-	6 CW10
+	6 CW10 Valiant Griffin Rider
 	6 CW03
 	6 CW15 Disenchant/removal
 	6 CW13 Banishing Light
@@ -3359,7 +3358,6 @@
 	6 CR03
 	6 CR04 Accursed Princess
 	6 CR05 Fox of Fiery Fables
-	6 CR06
 	6 CR07
 	6 CR08
 	6 CR09
@@ -3373,7 +3371,6 @@
 	15 UG04 Deadly Pair
 	6 CG03
 	6 CG05
-	6 CG06
 	6 CG07 Returned Knight
 	6 CG08
 	6 CG09 Callow Treefolk
@@ -3386,7 +3383,7 @@
 	15 UW01
 	15 UW02 Shadow of Faith
 	15 UW03
-	15 UW04
+	15 UW04 Champion of Ilheim
 	15 UW05
 	15 UW06
 	15 UW07
@@ -3395,7 +3392,7 @@
 	15 UW10 Ravenous Featherfang
 	15 UW11 Giant's Cloak
 	15 UU01 Twins of a Feather
-	15 UU02
+	15 UR01
 	15 UU03 Kalinfal Astronomer
 	15 UU04 Netcaster Troll
 	15 UU05
@@ -3409,7 +3406,7 @@
 	15 UB02
 	15 UB03
 	15 UB04 Pactbound Executioner
-	15 UB05
+	15 UB05 Spawn of Szaltr
 	15 UB06
 	15 UB07
 	15 UB08 Sinister Strength
@@ -3418,19 +3415,19 @@
 	15 UR02 Wildfire Harpy
 	15 UR03 Arrogant Thespian
 	15 UR04
-	15 UR05
-	15 UR06
 	15 UR07
+	15 UZ08
+	15 UR06 Warden of Peaks
 	15 UR08 Face Merchant
 	15 UR09 War Upon Us
 	15 UR10
-	15 UR11
+	15 UR11 Volatile Afterimage
 	15 UG01
 	15 UG02
 	7 RG03 The Lady of Lily Pond
 	15 CG04
+	6 CZ05 Honeyed Hunter
 	15 UG05
-	15 UG06
 	15 UG07
 	15 UG08
 	15 UG09
@@ -3480,7 +3477,7 @@
 	4 MG02
 	15 UZ03
 	15 UZ06
-	15 UZ08
+	6 CZ04 Beast of Avarice
 	15 UZ10
 	15 UZ01
 	15 UZ18
@@ -3491,7 +3488,6 @@
 	7 RZ02 Captured Princess
 	7 RZ03 Necroarcanite
 	7 RZ04 Skullmask Highwayman
-	7 RZ05
 	7 RZ01 Fabled Knight
 	7 RZ09
 	7 RZ07
@@ -3561,7 +3557,7 @@
 	4 MX08
 	4 MX09
 	4 MX10
-	15 UR01 Cloud Merchant
+	15 UU02 Cloud Merchant
 	6 CG01 Glimmerfetch
 	6 CU14 Top or Bottom
 	7 RG01 Seek the Twinbeasts
@@ -3570,5 +3566,8 @@
 	6 CU03 Mistmantled Wiseard
 	7 RB01 Plunder the Giant's Tomb
 	7 RW01 Form a Cult of Fursonality
-	6 UB09
+	15 UB09 Tombcall Prophecy
 	6 CB07 Troll of Terrible Tales
+	7 RZ05 Boltdrinker Pack
+	15 UR05
+	15 UG06

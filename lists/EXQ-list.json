@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "157"
+        "position": "155"
     },
     {
         "card_name": "MU01",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "159"
+        "position": "157"
     },
     {
         "card_name": "MB01 Eclipsebringer",
@@ -21,23 +21,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "161"
+        "position": "159"
     },
     {
         "card_name": "MR01",
-        "number": 149,
+        "number": 148,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "MG01",
+        "number": 188,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
         "position": "163"
-    },
-    {
-        "card_name": "MG01",
-        "number": 190,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "165"
     },
     {
         "card_name": "MW02",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "158"
+        "position": "156"
     },
     {
         "card_name": "MU02",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "160"
+        "position": "158"
     },
     {
         "card_name": "MB02",
@@ -61,23 +61,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "162"
+        "position": "160"
     },
     {
         "card_name": "MR02",
-        "number": 150,
+        "number": 149,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "MG02",
+        "number": 189,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
         "position": "164"
-    },
-    {
-        "card_name": "MG02",
-        "number": 191,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "166"
     },
     {
         "card_name": "RW01 Form a Cult of Fursonality",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "258"
+        "position": "255"
     },
     {
         "card_name": "RU01 Riders of the Tide",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "131"
+        "position": "129"
     },
     {
         "card_name": "RB01 Plunder the Giant's Tomb",
@@ -101,23 +101,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "257"
+        "position": "254"
     },
     {
         "card_name": "RR01",
-        "number": 151,
+        "number": 150,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "144"
+        "position": "142"
     },
     {
         "card_name": "RG01 Seek the Twinbeasts",
-        "number": 192,
+        "number": 190,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "253"
+        "position": "250"
     },
     {
         "card_name": "RW02",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "125"
+        "position": "123"
     },
     {
         "card_name": "RU02",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "132"
+        "position": "130"
     },
     {
         "card_name": "RB02",
@@ -141,23 +141,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "138"
+        "position": "136"
     },
     {
         "card_name": "RR02",
-        "number": 152,
+        "number": 151,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "145"
+        "position": "143"
     },
     {
         "card_name": "RG02",
-        "number": 193,
+        "number": 191,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "151"
+        "position": "149"
     },
     {
         "card_name": "RW03",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "126"
+        "position": "124"
     },
     {
         "card_name": "RU03",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "133"
+        "position": "131"
     },
     {
         "card_name": "RB03",
@@ -181,23 +181,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "139"
+        "position": "137"
     },
     {
         "card_name": "RR03",
-        "number": 153,
+        "number": 152,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "146"
+        "position": "144"
     },
     {
         "card_name": "RG03 The Lady of Lily Pond",
-        "number": 194,
+        "number": 192,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "116"
+        "position": "114"
     },
     {
         "card_name": "RW04",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "127"
+        "position": "125"
     },
     {
         "card_name": "RU04",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "134"
+        "position": "132"
     },
     {
         "card_name": "RB04",
@@ -221,23 +221,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "140"
+        "position": "138"
     },
     {
         "card_name": "RR04",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "147"
+        "position": "145"
     },
     {
         "card_name": "RG04",
-        "number": 195,
+        "number": 193,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "153"
+        "position": "151"
     },
     {
         "card_name": "RW05",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "128"
+        "position": "126"
     },
     {
         "card_name": "RU05",
@@ -253,7 +253,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "135"
+        "position": "133"
     },
     {
         "card_name": "RB05",
@@ -261,23 +261,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "141"
+        "position": "139"
     },
     {
         "card_name": "RR05",
-        "number": 155,
+        "number": 154,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "148"
+        "position": "146"
     },
     {
         "card_name": "RG05",
-        "number": 196,
+        "number": 194,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "154"
+        "position": "152"
     },
     {
         "card_name": "RW06",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "129"
+        "position": "127"
     },
     {
         "card_name": "RU06",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "136"
+        "position": "134"
     },
     {
         "card_name": "RB06",
@@ -301,23 +301,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "142"
+        "position": "140"
     },
     {
         "card_name": "RR06 Ferocious Dragon",
-        "number": 156,
+        "number": 155,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "149"
+        "position": "147"
     },
     {
         "card_name": "RG06",
-        "number": 197,
+        "number": 195,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "155"
+        "position": "153"
     },
     {
         "card_name": "RW07",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "130"
+        "position": "128"
     },
     {
         "card_name": "RU07",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "137"
+        "position": "135"
     },
     {
         "card_name": "RB07",
@@ -341,23 +341,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "143"
+        "position": "141"
     },
     {
         "card_name": "RR07",
-        "number": 157,
+        "number": 156,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "150"
+        "position": "148"
     },
     {
         "card_name": "RG07",
-        "number": 198,
+        "number": 196,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "156"
+        "position": "154"
     },
     {
         "card_name": "RW08",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "225"
+        "position": "222"
     },
     {
         "card_name": "RU08",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "226"
+        "position": "223"
     },
     {
         "card_name": "RB08",
@@ -381,23 +381,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "227"
+        "position": "224"
     },
     {
         "card_name": "RR08",
-        "number": 158,
+        "number": 157,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "228"
+        "position": "225"
     },
     {
         "card_name": "RG08",
-        "number": 199,
+        "number": 197,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "229"
+        "position": "226"
     },
     {
         "card_name": "RW09",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "234"
+        "position": "231"
     },
     {
         "card_name": "RU09",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "236"
+        "position": "233"
     },
     {
         "card_name": "RB09",
@@ -421,23 +421,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "238"
+        "position": "235"
     },
     {
         "card_name": "RR09",
-        "number": 159,
+        "number": 158,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "230"
+        "position": "227"
     },
     {
         "card_name": "RG09",
-        "number": 200,
+        "number": 198,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "232"
+        "position": "229"
     },
     {
         "card_name": "RW10",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "235"
+        "position": "232"
     },
     {
         "card_name": "RU10",
@@ -453,7 +453,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "237"
+        "position": "234"
     },
     {
         "card_name": "RB10",
@@ -461,23 +461,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "239"
+        "position": "236"
     },
     {
         "card_name": "RR10",
-        "number": 160,
+        "number": 159,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "231"
+        "position": "228"
     },
     {
         "card_name": "RG10",
-        "number": 201,
+        "number": 199,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "233"
+        "position": "230"
     },
     {
         "card_name": "UW01",
@@ -485,7 +485,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "72"
+        "position": "70"
     },
     {
         "card_name": "UU01 Twins of a Feather",
@@ -493,7 +493,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "83"
+        "position": "81"
     },
     {
         "card_name": "UB01 Fenwitch",
@@ -501,23 +501,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "94"
+        "position": "92"
     },
     {
-        "card_name": "UR01 Cloud Merchant",
-        "number": 161,
+        "card_name": "UR01",
+        "number": 160,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "250"
+        "position": "82"
     },
     {
         "card_name": "CG04",
-        "number": 178,
+        "number": 177,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "117"
+        "position": "115"
     },
     {
         "card_name": "UW02 Shadow of Faith",
@@ -525,15 +525,15 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "73"
+        "position": "71"
     },
     {
-        "card_name": "UU02",
+        "card_name": "UU02 Cloud Merchant",
         "number": 80,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "84"
+        "position": "247"
     },
     {
         "card_name": "UB02",
@@ -541,23 +541,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "95"
+        "position": "93"
     },
     {
         "card_name": "UR02 Wildfire Harpy",
-        "number": 162,
+        "number": 161,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "104"
+        "position": "102"
     },
     {
         "card_name": "UG01",
-        "number": 202,
+        "number": 200,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "114"
+        "position": "112"
     },
     {
         "card_name": "UW03",
@@ -565,7 +565,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "74"
+        "position": "72"
     },
     {
         "card_name": "UU03 Kalinfal Astronomer",
@@ -573,7 +573,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "85"
+        "position": "83"
     },
     {
         "card_name": "UB03",
@@ -581,31 +581,31 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "96"
+        "position": "94"
     },
     {
         "card_name": "UR03 Arrogant Thespian",
-        "number": 163,
+        "number": 162,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "105"
+        "position": "103"
     },
     {
         "card_name": "UG02",
-        "number": 203,
+        "number": 201,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "115"
+        "position": "113"
     },
     {
-        "card_name": "UW04",
+        "card_name": "UW04 Champion of Ilheim",
         "number": 41,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "75"
+        "position": "73"
     },
     {
         "card_name": "UU04 Netcaster Troll",
@@ -613,7 +613,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "86"
+        "position": "84"
     },
     {
         "card_name": "UB04 Pactbound Executioner",
@@ -621,23 +621,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "97"
+        "position": "95"
     },
     {
         "card_name": "UR04",
-        "number": 164,
+        "number": 163,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "106"
+        "position": "104"
     },
     {
         "card_name": "UG03",
-        "number": 204,
+        "number": 202,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "152"
+        "position": "150"
     },
     {
         "card_name": "UW05",
@@ -645,7 +645,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "76"
+        "position": "74"
     },
     {
         "card_name": "UU05",
@@ -653,31 +653,31 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "87"
+        "position": "85"
     },
     {
-        "card_name": "UB05",
+        "card_name": "UB05 Spawn of Szaltr",
         "number": 124,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "98"
+        "position": "96"
     },
     {
         "card_name": "UR05",
-        "number": 165,
+        "number": 164,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "107"
+        "position": "268"
     },
     {
         "card_name": "UG04 Deadly Pair",
-        "number": 205,
+        "number": 203,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "59"
+        "position": "58"
     },
     {
         "card_name": "UW06",
@@ -685,7 +685,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "77"
+        "position": "75"
     },
     {
         "card_name": "UU06",
@@ -693,7 +693,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "88"
+        "position": "86"
     },
     {
         "card_name": "UB06",
@@ -701,23 +701,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "99"
+        "position": "97"
     },
     {
-        "card_name": "UR06",
-        "number": 166,
+        "card_name": "UR06 Warden of Peaks",
+        "number": 165,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "108"
+        "position": "107"
     },
     {
         "card_name": "UG05",
-        "number": 206,
+        "number": 204,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "118"
+        "position": "117"
     },
     {
         "card_name": "UW07",
@@ -725,7 +725,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "78"
+        "position": "76"
     },
     {
         "card_name": "UU07",
@@ -733,7 +733,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "89"
+        "position": "87"
     },
     {
         "card_name": "UB07",
@@ -741,23 +741,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "100"
+        "position": "98"
     },
     {
         "card_name": "UR07",
-        "number": 167,
+        "number": 166,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "109"
+        "position": "105"
     },
     {
         "card_name": "UG06",
-        "number": 207,
+        "number": 205,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "119"
+        "position": "269"
     },
     {
         "card_name": "UW08",
@@ -765,7 +765,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "79"
+        "position": "77"
     },
     {
         "card_name": "UU08",
@@ -773,7 +773,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "90"
+        "position": "88"
     },
     {
         "card_name": "UB08 Sinister Strength",
@@ -781,23 +781,23 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "101"
+        "position": "99"
     },
     {
         "card_name": "UR08 Face Merchant",
-        "number": 168,
+        "number": 167,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "110"
+        "position": "108"
     },
     {
         "card_name": "UG07",
-        "number": 208,
+        "number": 206,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "120"
+        "position": "118"
     },
     {
         "card_name": "UW09",
@@ -805,7 +805,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "80"
+        "position": "78"
     },
     {
         "card_name": "UU09",
@@ -813,31 +813,31 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "91"
+        "position": "89"
     },
     {
-        "card_name": "UB10",
-        "number": 129,
+        "card_name": "UB09 Tombcall Prophecy",
+        "number": 128,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "102"
+        "position": "256"
     },
     {
         "card_name": "UR09 War Upon Us",
-        "number": 169,
+        "number": 168,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "111"
+        "position": "109"
     },
     {
         "card_name": "UG08",
-        "number": 209,
+        "number": 207,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "121"
+        "position": "119"
     },
     {
         "card_name": "UW10 Ravenous Featherfang",
@@ -845,7 +845,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "81"
+        "position": "79"
     },
     {
         "card_name": "UU10",
@@ -853,31 +853,31 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "92"
+        "position": "90"
     },
     {
-        "card_name": "UB11",
-        "number": 130,
+        "card_name": "UB10",
+        "number": 129,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "103"
+        "position": "100"
     },
     {
         "card_name": "UR10",
-        "number": 170,
+        "number": 169,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "112"
+        "position": "110"
     },
     {
         "card_name": "UG09",
-        "number": 210,
+        "number": 208,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "122"
+        "position": "120"
     },
     {
         "card_name": "UW11 Giant's Cloak",
@@ -885,7 +885,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "82"
+        "position": "80"
     },
     {
         "card_name": "UU11",
@@ -893,31 +893,31 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "93"
+        "position": "91"
     },
     {
-        "card_name": "UB12",
-        "number": 131,
+        "card_name": "UB11",
+        "number": 130,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "213"
+        "position": "101"
     },
     {
-        "card_name": "UR11",
-        "number": 171,
+        "card_name": "UR11 Volatile Afterimage",
+        "number": 170,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "113"
+        "position": "111"
     },
     {
         "card_name": "UG10",
-        "number": 211,
+        "number": 209,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "123"
+        "position": "121"
     },
     {
         "card_name": "UW12",
@@ -925,7 +925,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "197"
+        "position": "194"
     },
     {
         "card_name": "UU12",
@@ -933,31 +933,31 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "UB12",
+        "number": 131,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
         "position": "210"
     },
     {
-        "card_name": "UB13",
-        "number": 132,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "214"
-    },
-    {
         "card_name": "UR12",
-        "number": 172,
+        "number": 171,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "204"
+        "position": "201"
     },
     {
         "card_name": "UG11",
-        "number": 212,
+        "number": 210,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "124"
+        "position": "122"
     },
     {
         "card_name": "UW13",
@@ -973,31 +973,31 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
+        "position": "208"
+    },
+    {
+        "card_name": "UB13",
+        "number": 132,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
         "position": "211"
     },
     {
-        "card_name": "UB14",
-        "number": 133,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "215"
-    },
-    {
         "card_name": "UR13",
-        "number": 173,
+        "number": 172,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "205"
+        "position": "202"
     },
     {
         "card_name": "UG12",
-        "number": 213,
+        "number": 211,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "207"
+        "position": "204"
     },
     {
         "card_name": "UW14",
@@ -1005,7 +1005,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "198"
+        "position": "195"
     },
     {
         "card_name": "UU14",
@@ -1013,31 +1013,31 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "UB14",
+        "number": 133,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
         "position": "212"
     },
     {
-        "card_name": "CB01 Pot-Stirring Boggun",
-        "number": 93,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "29"
-    },
-    {
         "card_name": "UR14",
-        "number": 174,
+        "number": 173,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "206"
+        "position": "203"
     },
     {
         "card_name": "UG13",
-        "number": 214,
+        "number": 212,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "208"
+        "position": "205"
     },
     {
         "card_name": "CW01 Resting Youth",
@@ -1056,12 +1056,12 @@
         "position": "16"
     },
     {
-        "card_name": "CB02",
-        "number": 94,
+        "card_name": "CB01 Pot-Stirring Boggun",
+        "number": 93,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "30"
+        "position": "29"
     },
     {
         "card_name": "CR01 Bloodmist Lurker",
@@ -1073,11 +1073,11 @@
     },
     {
         "card_name": "UG14",
-        "number": 215,
+        "number": 213,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "209"
+        "position": "206"
     },
     {
         "card_name": "CW02 Loyal Pariah",
@@ -1096,12 +1096,12 @@
         "position": "17"
     },
     {
-        "card_name": "CB03",
-        "number": 95,
+        "card_name": "CB02",
+        "number": 94,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "31"
+        "position": "30"
     },
     {
         "card_name": "CR02",
@@ -1113,11 +1113,11 @@
     },
     {
         "card_name": "CG01 Glimmerfetch",
-        "number": 175,
+        "number": 174,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "251"
+        "position": "248"
     },
     {
         "card_name": "CW03",
@@ -1133,15 +1133,15 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "256"
+        "position": "253"
     },
     {
-        "card_name": "CB04 Distant Apparition",
-        "number": 96,
+        "card_name": "CB03",
+        "number": 95,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "32"
+        "position": "31"
     },
     {
         "card_name": "CR03",
@@ -1153,11 +1153,11 @@
     },
     {
         "card_name": "CG02 Trog",
-        "number": 176,
+        "number": 175,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "58"
+        "position": "57"
     },
     {
         "card_name": "CW04",
@@ -1176,12 +1176,12 @@
         "position": "18"
     },
     {
-        "card_name": "CB05",
-        "number": 97,
+        "card_name": "CB04 Distant Apparition",
+        "number": 96,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "33"
+        "position": "32"
     },
     {
         "card_name": "CR04 Accursed Princess",
@@ -1193,11 +1193,11 @@
     },
     {
         "card_name": "CG03",
-        "number": 177,
+        "number": 176,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "60"
+        "position": "59"
     },
     {
         "card_name": "CW05",
@@ -1216,12 +1216,12 @@
         "position": "19"
     },
     {
-        "card_name": "CB06 Treacherous Trader",
-        "number": 98,
+        "card_name": "CB05",
+        "number": 97,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "34"
+        "position": "33"
     },
     {
         "card_name": "CR05 Fox of Fiery Fables",
@@ -1233,11 +1233,11 @@
     },
     {
         "card_name": "CG05",
-        "number": 179,
+        "number": 178,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "61"
+        "position": "60"
     },
     {
         "card_name": "CW06",
@@ -1256,15 +1256,15 @@
         "position": "20"
     },
     {
-        "card_name": "CB07 Troll of Terrible Tales",
-        "number": 99,
+        "card_name": "CB06 Treacherous Trader",
+        "number": 98,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "260"
+        "position": "34"
     },
     {
-        "card_name": "CR06",
+        "card_name": "CR07",
         "number": 139,
         "shape": "normal",
         "set": "EXQ",
@@ -1272,12 +1272,12 @@
         "position": "48"
     },
     {
-        "card_name": "CG06",
-        "number": 180,
+        "card_name": "CG07 Returned Knight",
+        "number": 179,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "62"
+        "position": "61"
     },
     {
         "card_name": "CW07",
@@ -1296,15 +1296,15 @@
         "position": "21"
     },
     {
-        "card_name": "CB08 Rider of Kalinfal",
-        "number": 100,
+        "card_name": "CB07 Troll of Terrible Tales",
+        "number": 99,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "35"
+        "position": "257"
     },
     {
-        "card_name": "CR07",
+        "card_name": "CR08",
         "number": 140,
         "shape": "normal",
         "set": "EXQ",
@@ -1312,12 +1312,12 @@
         "position": "49"
     },
     {
-        "card_name": "CG07 Returned Knight",
-        "number": 181,
+        "card_name": "CG08",
+        "number": 180,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "63"
+        "position": "62"
     },
     {
         "card_name": "CW08",
@@ -1336,15 +1336,15 @@
         "position": "22"
     },
     {
-        "card_name": "CB09",
-        "number": 101,
+        "card_name": "CB08 Rider of Kalinfal",
+        "number": 100,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "36"
+        "position": "35"
     },
     {
-        "card_name": "CR08",
+        "card_name": "CR09",
         "number": 141,
         "shape": "normal",
         "set": "EXQ",
@@ -1352,12 +1352,12 @@
         "position": "50"
     },
     {
-        "card_name": "CG08",
-        "number": 182,
+        "card_name": "CG09 Callow Treefolk",
+        "number": 181,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "64"
+        "position": "63"
     },
     {
         "card_name": "CW09",
@@ -1376,15 +1376,15 @@
         "position": "23"
     },
     {
-        "card_name": "CB10 Dragged into Darkness",
-        "number": 102,
+        "card_name": "CB09",
+        "number": 101,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "37"
+        "position": "36"
     },
     {
-        "card_name": "CR09",
+        "card_name": "CR10 Punish Folly",
         "number": 142,
         "shape": "normal",
         "set": "EXQ",
@@ -1392,15 +1392,15 @@
         "position": "51"
     },
     {
-        "card_name": "CG09 Callow Treefolk",
-        "number": 183,
+        "card_name": "CG10",
+        "number": 182,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "65"
+        "position": "64"
     },
     {
-        "card_name": "CW10",
+        "card_name": "CW10 Valiant Griffin Rider",
         "number": 20,
         "shape": "normal",
         "set": "EXQ",
@@ -1416,15 +1416,15 @@
         "position": "24"
     },
     {
-        "card_name": "CB11 Combat trick",
-        "number": 103,
+        "card_name": "CB10 Dragged into Darkness",
+        "number": 102,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "38"
+        "position": "37"
     },
     {
-        "card_name": "CR10 Punish Folly",
+        "card_name": "CR11 Combat trick",
         "number": 143,
         "shape": "normal",
         "set": "EXQ",
@@ -1432,12 +1432,12 @@
         "position": "52"
     },
     {
-        "card_name": "CG10",
-        "number": 184,
+        "card_name": "CG11 Fight",
+        "number": 183,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "66"
+        "position": "65"
     },
     {
         "card_name": "CW11 Chimera of Chanted Chronicles",
@@ -1456,15 +1456,15 @@
         "position": "25"
     },
     {
-        "card_name": "CB12 Cradled by the Grave",
-        "number": 104,
+        "card_name": "CB11 Combat trick",
+        "number": 103,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "39"
+        "position": "38"
     },
     {
-        "card_name": "CR11 Combat trick",
+        "card_name": "CR12 Rummage/impulse",
         "number": 144,
         "shape": "normal",
         "set": "EXQ",
@@ -1472,12 +1472,12 @@
         "position": "53"
     },
     {
-        "card_name": "CG11 Fight",
-        "number": 185,
+        "card_name": "CG12 Bite",
+        "number": 184,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "67"
+        "position": "66"
     },
     {
         "card_name": "CW12 Maintain Decorum",
@@ -1496,15 +1496,15 @@
         "position": "26"
     },
     {
-        "card_name": "CB13 Coercion",
-        "number": 105,
+        "card_name": "CB12 Cradled by the Grave",
+        "number": 104,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "40"
+        "position": "39"
     },
     {
-        "card_name": "CR12 Rummage/impulse",
+        "card_name": "CR13 Modal shatter",
         "number": 145,
         "shape": "normal",
         "set": "EXQ",
@@ -1512,12 +1512,12 @@
         "position": "54"
     },
     {
-        "card_name": "CG12 Bite",
-        "number": 186,
+        "card_name": "CG13 Combat trick",
+        "number": 185,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "68"
+        "position": "67"
     },
     {
         "card_name": "CW13 Banishing Light",
@@ -1536,15 +1536,15 @@
         "position": "27"
     },
     {
-        "card_name": "CB14 Unconditional removal",
-        "number": 106,
+        "card_name": "CB13 Coercion",
+        "number": 105,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "41"
+        "position": "40"
     },
     {
-        "card_name": "CR13 Modal shatter",
+        "card_name": "CR14 Direct damage (4)",
         "number": 146,
         "shape": "normal",
         "set": "EXQ",
@@ -1552,12 +1552,12 @@
         "position": "55"
     },
     {
-        "card_name": "CG13 Combat trick",
-        "number": 187,
+        "card_name": "CG14 Mana acceleration",
+        "number": 186,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "69"
+        "position": "68"
     },
     {
         "card_name": "CW14 Combat trick",
@@ -1573,18 +1573,18 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "252"
+        "position": "249"
     },
     {
-        "card_name": "CB15 Lead Below",
-        "number": 107,
+        "card_name": "CB14 Unconditional removal",
+        "number": 106,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "42"
+        "position": "41"
     },
     {
-        "card_name": "CR14 Direct damage (4)",
+        "card_name": "CR15 Starfall Prophecy",
         "number": 147,
         "shape": "normal",
         "set": "EXQ",
@@ -1592,12 +1592,12 @@
         "position": "56"
     },
     {
-        "card_name": "CG14 Mana acceleration",
-        "number": 188,
+        "card_name": "CG15 At a Crossroad",
+        "number": 187,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "70"
+        "position": "69"
     },
     {
         "card_name": "CW15 Disenchant/removal",
@@ -1616,28 +1616,18 @@
         "position": "28"
     },
     {
-        "card_name": "UB09",
-        "number": 128,
+        "card_name": "CB15 Lead Below",
+        "number": 107,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "259"
+        "position": "42"
     },
     {
-        "card_name": "CR15 Starfall Prophecy",
-        "number": 148,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "57"
+        "card_name": "e"
     },
     {
-        "card_name": "CG15 At a Crossroad",
-        "number": 189,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "71"
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1654,6 +1644,22 @@
     "a->gold",
     {
         "card_name": "RZ02 Captured Princess",
+        "number": 215,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "RZ03 Necroarcanite",
+        "number": 216,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "RZ04 Skullmask Highwayman",
         "number": 217,
         "shape": "normal",
         "set": "EXQ",
@@ -1661,116 +1667,125 @@
         "position": "177"
     },
     {
-        "card_name": "RZ03 Necroarcanite",
+        "card_name": "RZ05 Boltdrinker Pack",
         "number": 218,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "258"
+    },
+    {
+        "card_name": "RZ01 Fabled Knight",
+        "number": 214,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
         "position": "178"
     },
     {
-        "card_name": "RZ04 Skullmask Highwayman",
-        "number": 219,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "179"
-    },
-    {
-        "card_name": "RZ05",
-        "number": 220,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "180"
-    },
-    {
-        "card_name": "RZ01 Fabled Knight",
-        "number": 216,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "181"
-    },
-    {
         "card_name": "UZ03",
-        "number": 228,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "167"
-    },
-    {
-        "card_name": "UZ05",
-        "number": 230,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "217"
-    },
-    {
-        "card_name": "UZ07 Argen, Puppet of Szaltr",
-        "number": 232,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "255"
-    },
-    {
-        "card_name": "UZ09",
-        "number": 234,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "218"
-    },
-    {
-        "card_name": "UZ01",
         "number": 226,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "171"
+        "position": "165"
     },
     {
-        "card_name": "UZ04",
-        "number": 229,
+        "card_name": "UZ05",
+        "number": 228,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "216"
+        "position": "214"
     },
     {
-        "card_name": "UZ06",
-        "number": 231,
+        "card_name": "UZ07 Argen, Puppet of Szaltr",
+        "number": 230,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "168"
+        "position": "252"
     },
     {
-        "card_name": "UZ08",
-        "number": 233,
+        "card_name": "UZ09",
+        "number": 232,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "215"
+    },
+    {
+        "card_name": "UZ01",
+        "number": 224,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
         "position": "169"
     },
     {
-        "card_name": "UZ10",
-        "number": 235,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "170"
-    },
-    {
-        "card_name": "UZ02",
+        "card_name": "UZ04",
         "number": 227,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "219"
+        "position": "213"
+    },
+    {
+        "card_name": "UZ06",
+        "number": 229,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "UZ08",
+        "number": 231,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "UZ10",
+        "number": 233,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "UZ02",
+        "number": 225,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "216"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CZ04 Beast of Avarice",
+        "number": 244,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "CZ05 Honeyed Hunter",
+        "number": 245,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1789,123 +1804,123 @@
     },
     {
         "card_name": "RZ09",
-        "number": 224,
+        "number": 222,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "RZ07",
+        "number": 220,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "RZ10",
+        "number": 223,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "RZ08",
+        "number": 221,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
         "position": "182"
     },
     {
-        "card_name": "RZ07",
-        "number": 222,
+        "card_name": "RZ06 Sylvia of a Thousand Wings",
+        "number": 219,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
         "position": "183"
     },
     {
-        "card_name": "RZ10",
-        "number": 225,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "184"
-    },
-    {
-        "card_name": "RZ08",
-        "number": 223,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "185"
-    },
-    {
-        "card_name": "RZ06 Sylvia of a Thousand Wings",
-        "number": 221,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "186"
-    },
-    {
         "card_name": "UZ17",
-        "number": 242,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "220"
-    },
-    {
-        "card_name": "UZ13 Sail the Dreamsea",
-        "number": 238,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "173"
-    },
-    {
-        "card_name": "UZ19 Venusian Knight",
-        "number": 244,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "174"
-    },
-    {
-        "card_name": "UZ15",
         "number": 240,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "223"
+        "position": "217"
     },
     {
-        "card_name": "UZ11",
+        "card_name": "UZ13 Sail the Dreamsea",
         "number": 236,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "224"
+        "position": "171"
     },
     {
-        "card_name": "UZ18",
-        "number": 243,
+        "card_name": "UZ19 Venusian Knight",
+        "number": 242,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
         "position": "172"
     },
     {
-        "card_name": "UZ14",
-        "number": 239,
+        "card_name": "UZ15",
+        "number": 238,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "UZ11",
+        "number": 234,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
         "position": "221"
     },
     {
-        "card_name": "UZ20",
-        "number": 245,
-        "shape": "normal",
-        "set": "EXQ",
-        "rotated": false,
-        "position": "222"
-    },
-    {
-        "card_name": "UZ16",
+        "card_name": "UZ18",
         "number": 241,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "175"
+        "position": "170"
     },
     {
-        "card_name": "UZ12",
+        "card_name": "UZ14",
         "number": 237,
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "176"
+        "position": "218"
+    },
+    {
+        "card_name": "UZ20",
+        "number": 243,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "UZ16",
+        "number": 239,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "UZ12",
+        "number": 235,
+        "shape": "normal",
+        "set": "EXQ",
+        "rotated": false,
+        "position": "174"
     },
     {
         "card_name": "er"
@@ -1926,7 +1941,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "240"
+        "position": "237"
     },
     {
         "card_name": "MX02",
@@ -1934,7 +1949,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "241"
+        "position": "238"
     },
     {
         "card_name": "MX03",
@@ -1942,7 +1957,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "242"
+        "position": "239"
     },
     {
         "card_name": "MX04",
@@ -1950,7 +1965,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "243"
+        "position": "240"
     },
     {
         "card_name": "MX05",
@@ -1958,7 +1973,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "244"
+        "position": "241"
     },
     {
         "card_name": "MX06",
@@ -1966,7 +1981,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "245"
+        "position": "242"
     },
     {
         "card_name": "MX07",
@@ -1974,7 +1989,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "246"
+        "position": "243"
     },
     {
         "card_name": "MX08",
@@ -1982,7 +1997,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "247"
+        "position": "244"
     },
     {
         "card_name": "MX09",
@@ -1990,7 +2005,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "248"
+        "position": "245"
     },
     {
         "card_name": "MX10",
@@ -1998,7 +2013,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "249"
+        "position": "246"
     },
     {
         "card_name": "UA01 Mirror Paladin",
@@ -2006,7 +2021,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "188"
+        "position": "185"
     },
     {
         "card_name": "UA02 Soul Gate",
@@ -2014,7 +2029,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "192"
+        "position": "189"
     },
     {
         "card_name": "UA03",
@@ -2022,7 +2037,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "193"
+        "position": "190"
     },
     {
         "card_name": "UA04",
@@ -2030,7 +2045,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "194"
+        "position": "191"
     },
     {
         "card_name": "UA05",
@@ -2038,7 +2053,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "195"
+        "position": "192"
     },
     {
         "card_name": "UA06",
@@ -2046,7 +2061,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "199"
+        "position": "196"
     },
     {
         "card_name": "UA07",
@@ -2054,7 +2069,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "200"
+        "position": "197"
     },
     {
         "card_name": "CA01 Candlelight Messenger",
@@ -2062,7 +2077,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "187"
+        "position": "184"
     },
     {
         "card_name": "CA02",
@@ -2070,7 +2085,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "254"
+        "position": "251"
     },
     {
         "card_name": "CA03 Dreamscape Rambler",
@@ -2078,7 +2093,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "191"
+        "position": "188"
     },
     {
         "card_name": "CA04 Forsworn's Axe",
@@ -2086,7 +2101,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "189"
+        "position": "186"
     },
     {
         "card_name": "CA05 Orb of Pondering",
@@ -2094,7 +2109,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "190"
+        "position": "187"
     },
     {
         "card_name": "e"
@@ -2126,7 +2141,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "201"
+        "position": "198"
     },
     {
         "card_name": "UA09",
@@ -2134,7 +2149,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "202"
+        "position": "199"
     },
     {
         "card_name": "UA10",
@@ -2142,7 +2157,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "203"
+        "position": "200"
     },
     {
         "card_name": "CA06 Mythomorphic Vale",
@@ -2150,7 +2165,7 @@
         "shape": "normal",
         "set": "EXQ",
         "rotated": false,
-        "position": "196"
+        "position": "193"
     },
     {
         "card_name": "e"
@@ -2174,7 +2189,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "264"
+        "position": "262"
     },
     {
         "card_name": "Exquisite Corpse Rules",
@@ -2182,7 +2197,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "263"
+        "position": "261"
     },
     {
         "card_name": "Cat Cleric",
@@ -2190,7 +2205,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "267"
+        "position": "265"
     },
     {
         "card_name": "Knight",
@@ -2198,7 +2213,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "262"
+        "position": "260"
     },
     {
         "card_name": "Wisdom",
@@ -2206,7 +2221,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "268"
+        "position": "266"
     },
     {
         "card_name": "Soldier",
@@ -2214,7 +2229,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "261"
+        "position": "259"
     },
     {
         "card_name": "Beast",
@@ -2222,7 +2237,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "266"
+        "position": "264"
     },
     {
         "card_name": "Cat",
@@ -2230,7 +2245,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "269"
+        "position": "267"
     },
     {
         "card_name": "Insect",
@@ -2238,7 +2253,7 @@
         "shape": "token",
         "set": "EXQ",
         "rotated": false,
-        "position": "265"
+        "position": "263"
     },
     {
         "card_name": "e"

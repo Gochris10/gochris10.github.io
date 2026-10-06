@@ -1,4 +1,475 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+CW10 Valiant Griffin Rider added.
+UW04 Champion of Ilheim added.
+UR01 added.
+UB05 Spawn of Szaltr added.
+UR06 Warden of Peaks added.
+UR11 Volatile Afterimage added.
+CZ05 Honeyed Hunter added.
+CZ04 Beast of Avarice added.
+UU02 Cloud Merchant added.
+UB09 Tombcall Prophecy added.
+RZ05 Boltdrinker Pack added.
+
+CW10 removed.
+CR06 removed.
+CG06 removed.
+UW04 removed.
+UU02 removed.
+UB05 removed.
+UR06 removed.
+UR11 removed.
+RZ05 removed.
+UR01 Cloud Merchant removed.
+UB09 removed.
+
+CR07
+type: Creature => Sorcery
+
+CR08
+
+CR09
+
+CR10 Punish Folly
+
+CR11 Combat trick
+
+CR12 Rummage/impulse
+
+CR13 Modal shatter
+
+CR14 Direct damage (4)
+
+CR15 Starfall Prophecy
+
+CG02 Trog
+
+UG04 Deadly Pair
+
+CG03
+
+CG05
+
+CG07 Returned Knight
+rules_text: Vigilance
+When Returned Knight enters or dies, you may put a creature or land card from your graveyard on top of your library. => Vigilance
+When this creature enters or dies, you may put a creature or land card from your graveyard on top of your library.
+
+CG08
+
+CG09 Callow Treefolk
+
+CG10
+
+CG11 Fight
+
+CG12 Bite
+
+CG13 Combat trick
+
+CG14 Mana acceleration
+
+CG15 At a Crossroad
+
+UW01
+
+UW02 Shadow of Faith
+
+UW03
+
+UW05
+
+UW06
+
+UW07
+
+UW08
+
+UW09
+
+UW10 Ravenous Featherfang
+
+UW11 Giant's Cloak
+
+UU01 Twins of a Feather
+
+UU03 Kalinfal Astronomer
+
+UU04 Netcaster Troll
+
+UU05
+
+UU06
+
+UU07
+
+UU08
+
+UU09
+
+UU10
+
+UU11
+
+UB01 Fenwitch
+
+UB02
+
+UB03
+
+UB04 Pactbound Executioner
+
+UB06
+
+UB07
+
+UB08 Sinister Strength
+
+UB10
+
+UB11
+
+UR02 Wildfire Harpy
+
+UR03 Arrogant Thespian
+
+UR04
+
+UR07
+
+UZ08
+
+UR08 Face Merchant
+
+UR09 War Upon Us
+
+UR10
+
+UG01
+
+UG02
+
+RG03 The Lady of Lily Pond
+
+CG04
+
+UG05
+
+UG07
+
+UG08
+
+UG09
+
+UG10
+
+UG11
+
+RW02
+
+RW03
+
+RW04
+
+RW05
+
+RW06
+
+RW07
+
+RU01 Riders of the Tide
+
+RU02
+
+RU03
+
+RU04
+
+RU05
+
+RU06
+
+RU07
+
+RB02
+
+RB03
+
+RB04
+
+RB05
+
+RB06
+
+RB07
+
+RR01
+
+RR02
+
+RR03
+
+RR04
+
+RR05
+
+RR06 Ferocious Dragon
+
+RR07
+
+RG02
+
+UG03
+
+RG04
+
+RG05
+
+RG06
+
+RG07
+
+MW01
+
+MW02
+
+MU01
+
+MU02
+
+MB01 Eclipsebringer
+
+MB02
+
+MR01
+
+MR02
+
+MG01
+
+MG02
+
+UZ03
+
+UZ06
+
+UZ10
+
+UZ01
+
+UZ18
+
+UZ13 Sail the Dreamsea
+
+UZ19 Venusian Knight
+
+UZ16
+
+UZ12
+
+RZ02 Captured Princess
+
+RZ03 Necroarcanite
+
+RZ04 Skullmask Highwayman
+
+RZ01 Fabled Knight
+rules_text: Enchantment spells you cast cost {X} less to cast, where X is Fabled Knight's power.
+Whenever you complete a Quest, create a 2/2 white Knight token with vigilance, then put a +1/+1 counter on each creature you control. => Enchantment spells you cast cost {X} less to cast, where X is this creature's power.
+Whenever you complete a Quest, create a 2/2 white Knight token with vigilance, then put a +1/+1 counter on each creature you control.
+
+RZ09
+
+RZ07
+
+RZ10
+
+RZ08
+
+RZ06 Sylvia of a Thousand Wings
+rules_text: Flash
+When Sylvia of a Thousand Wings enters, you may untap any number of nontoken tapped creatures you control. For each creature untapped this way, create a 0/1 green Insect token with Flying.
+Insects you control get +1/+1. => Flash
+When Sylvia enters, you may untap any number of nontoken tapped creatures you control. For each creature untapped this way, create a 0/1 green Insect token with Flying.
+Insects you control get +1/+1.
+
+CA01 Candlelight Messenger
+
+UA01 Mirror Paladin
+
+CA04 Forsworn's Axe
+
+CA05 Orb of Pondering
+
+CA03 Dreamscape Rambler
+
+UA02 Soul Gate
+
+UA03
+
+UA04
+
+UA05
+
+CA06 Mythomorphic Vale
+
+UW12
+
+UW14
+
+UA06
+
+UA07
+
+UA08 Crumbling Academy
+
+UA09
+
+UA10
+
+UR12
+
+UR13
+
+UR14
+
+UG12
+
+UG13
+
+UG14
+
+UU12
+
+UU13
+
+UU14
+
+UB12
+
+UB13
+
+UB14
+
+UZ04
+
+UZ05
+
+UZ09
+
+UZ02
+
+UZ17
+
+UZ14
+
+UZ20
+
+UZ15
+
+UZ11
+
+RW08
+
+RU08
+
+RB08
+
+RR08
+
+RG08
+
+RR09
+
+RR10
+
+RG09
+
+RG10
+
+RW09
+
+RW10
+
+RU09
+
+RU10
+
+RB09
+
+RB10
+
+MX01
+
+MX02
+
+MX03
+
+MX04
+
+MX05
+
+MX06
+
+MX07
+
+MX08
+
+MX09
+
+MX10
+
+CG01 Glimmerfetch
+
+CU14 Top or Bottom
+
+RG01 Seek the Twinbeasts
+
+CA02
+
+UZ07 Argen, Puppet of Szaltr
+type: Legendary creature — Human Dragon Noble => Legendary Creature — Human Dragon Noble
+rules_text: Sacrifice three non-Dragon creatures: Choose one —
+• Return target Dragon card from your graveyard to the battlefield.
+• Add {B}{B}{R}{R}. => {T}, Sacrifice three non-Dragon creatures: Choose one —
+• Return target Dragon card from your graveyard to the battlefield.
+• Add {B}{B}{R}{R}.
+pt: 1/1 => 4/3
+
+CU03 Mistmantled Wiseard
+
+RB01 Plunder the Giant's Tomb
+
+RW01 Form a Cult of Fursonality
+
+CB07 Troll of Terrible Tales
+
+Soldier
+
+Knight
+
+Exquisite Corpse Rules
+
+Exquisite Corpse Guidelines
+
+Insect
+
+Beast
+
+Cat Cleric
+
+Wisdom
+
+Cat
+
+UR05
+
+UG06
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
